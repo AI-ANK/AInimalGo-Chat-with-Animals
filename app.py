@@ -216,6 +216,9 @@ else:
             st.markdown(user_input)
 
         # Call the chat engine to get the response if an image has been uploaded
+        st.write("checking")
+        st.write(image_data)
+        st.write(user_input)
         if image_data and user_input:
             try:
                 with st.spinner('Waiting for the chat engine to respond...'):
