@@ -41,6 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 ### Get Involved:
 
 We welcome contributions, suggestions, and feedback to enhance the app. Feel free to fork, star, and contribute to this project!
+
 ---
 ## Credits
 Developed by Harshad Suryawanshi. Connect with me on [LinkedIn](https://www.linkedin.com/in/harshadsuryawanshi/), [Medium](https://harshadsuryawanshi.medium.com/).
