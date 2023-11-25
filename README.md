@@ -1,6 +1,7 @@
 ## AInimal Go! - Interact with the Animal Kingdom through AI
 
-Welcome to "AInimal Go!", an innovative application inspired by the charm of Pokémon Go, crafted for animal lovers and technology aficionados. This unique app bridges the gap between the digital world and the animal kingdom, allowing users to upload or capture images of animals and engage in interactive, text-based conversations with them, powered by advanced AI technologies.
+Welcome to "AInimal Go!", an innovative application inspired by the charm of Pokémon Go, crafted for animal lovers and technology aficionados.  It showcases capabilities of MultiModal Retriever-Augmented Generation (RAG) in creating a delightful user experience. This unique app bridges the gap between the digital world and the animal kingdom, allowing users to upload or capture images of animals and engage in interactive, text-based conversations with them, powered by advanced AI technologies.
+
 
 ### Key Features:
 
@@ -16,12 +17,14 @@ Welcome to "AInimal Go!", an innovative application inspired by the charm of Pok
 3. **Engage in Conversation:** The identified animal species is then used to initiate a conversation. Our LLM, equipped with conversational capabilities, role-plays as the animal, allowing for a unique chatting experience.
 4. **Interactive Chat Interface:** Users can ask questions or chat freely with the AI-represented animal, receiving responses that are imaginative, informative, and engaging.
 
-### Technologies Used:
+### Technical Highlights
+- **LlamaIndex**: Orchestrates the integration of LLMs and deep learning models, streamlining the conversational AI process.
+- **ResNet Model**: Chosen for its speed and accuracy in image classification, it's pivotal for the initial animal identification step.
+- **PaLM**: This Large Language Model is at the core of the conversational AI, enabling the app to simulate realistic and knowledgeable interactions.
+- **Wikipedia**: The app retrieves factual information from Wikipedia, enriching the conversations with educational content about the animals.
+- **Streamlit**: Provides the framework for the app's user interface, offering an accessible and pleasant user experience.
+- **Hugging Face Spaces**: The hosting platform that supports the app's deployment, ensuring it's readily accessible to users worldwide.
 
-- Streamlit for the web interface.
-- ResNet for image classification.
-- PaLM LLM for generating conversational responses.
-- Replicate and Google APIs for model integration and deployment.
 
 ## Demo
 
