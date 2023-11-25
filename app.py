@@ -132,7 +132,8 @@ else:
     message_count = int(message_count)
 
 # If the message limit has been reached, disable the inputs
-if message_count <= 20:    
+#if message_count <= 20:
+if 0:
     st.error("Notice: The maximum message limit for this demo version has been reached.")
     # Disabling the uploader and input by not displaying them
     image_uploader_placeholder = st.empty()  # Placeholder for the uploader
