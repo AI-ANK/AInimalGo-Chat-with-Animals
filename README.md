@@ -45,5 +45,6 @@ We welcome contributions, suggestions, and feedback to enhance the app. Feel fre
 ---
 ## Credits
 Developed by Harshad Suryawanshi. Connect with me on [LinkedIn](https://www.linkedin.com/in/harshadsuryawanshi/), [Medium](https://harshadsuryawanshi.medium.com/).
-If you find this project useful, consider giving it a ⭐ on GitHub!
+
+If you find this project useful, consider giving it a ⭐!
 ---
