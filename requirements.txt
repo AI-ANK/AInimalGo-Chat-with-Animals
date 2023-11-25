@@ -1,0 +1,10 @@
+streamlit
+extra_streamlit_components
+requests
+Pillow
+replicate
+transformers
+torch
+llama_index
+google-generativeai
+nest_asyncio
