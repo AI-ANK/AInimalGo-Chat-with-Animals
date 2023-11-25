@@ -203,7 +203,7 @@ else:
     for message in st.session_state.messages:
         avatar = st.session_state['assistant_avatar'] if message["role"] == "assistant" else None
         with st.chat_message(message["role"], avatar = avatar):
-            st.markdown(message["content"])
+            st.write(message["content"])
 
     # Handle new user input
     user_input = st.chat_input("Ask me about the image:", key="chat_input")
@@ -213,7 +213,7 @@ else:
 
         # Display user message immediately
         with st.chat_message("user"):
-            st.markdown(user_input)
+            st.write(user_input)
 
         # Call the chat engine to get the response if an image has been uploaded
         if image_data and user_input:
@@ -226,11 +226,11 @@ else:
                     {user_input}""")
                 
                 # Append assistant message to the session state
-                st.session_state.messages.append({"role": "assistant", "content": response})
+                st.session_state.messages.append({"role": "assistant", "content": response.response})
         
                 # Display the assistant message
                 with st.chat_message("assistant"):
-                    st.markdown(response)
+                    st.write(response.response)
         
             except Exception as e:
                 st.error(f'An error occurred.')
