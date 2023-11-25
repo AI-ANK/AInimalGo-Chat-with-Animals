@@ -1,0 +1,85 @@
+Gars are an ancient group of ray-finned fish in the family Lepisosteidae. They comprise seven living species of fish in two genera that inhabit fresh, brackish, and occasionally marine waters of eastern North America, Central America and Cuba in the Caribbean, though extinct members of the family were more widespread. They are the only surviving members of the Ginglymodi, a clade of fish which first appeared during the Triassic, over 240 million years ago, and are one of only two surviving groups of holosteian fish, alongside the bowfins, which have a similar distribution.Gars have elongated bodies that are heavily armored with ganoid scales, and fronted by similarly elongated jaws filled with long, sharp teeth. Gars are sometimes referred to as "garpike", but are not closely related to pike, which are in the fish family Esocidae. All of the gars are relatively large fish, but the alligator gar (Atractosteus spatula) is the largest; the alligator gar often grows to a length over 2 m (6.5 ft) and a weight over 45 kg (100 lb), and specimens of up to 3 m (9.8 ft) in length have been reported. Unusually, their vascularised swim bladders can function as lungs, and most gars surface periodically to take a gulp of air. Gar flesh is edible and the hard skin and scales of gars are used by humans, but gar eggs are highly toxic.
+
+Etymology
+The name "gar" was originally used for a species of needlefish (Belone belone) found in the North Atlantic and likely took its name from the Old English word for "spear". Belone belone is now more commonly referred to as the "garfish" or "gar fish" to avoid confusion with the North American gars of the family Lepisosteidae. Confusingly, the name "garfish" is also commonly used for a number of other species of the related genera Strongylura, Tylosurus, and Xenentodon of the family Belonidae.
+The generic name Lepisosteus comes from the Greek lepis meaning "scale" and osteon meaning "bone". Atractosteus is similarly derived from Greek, in this case from atraktos, meaning arrow.
+
+Evolution
+Evolutionary history
+Gars are considered to be the only surviving members of the Ginglymodi, a group of bony fish that flourished in the Mesozoic. The oldest known ginglymodians appeared during the Middle Triassic, over 240 million years ago. The closest living relatives of gars are the bowfin, with the gars and bowfin together forming the clade Holostei; both lineages diverged during the Late Permian.The closest extinct relatives of gar are the Obaichthyidae, an extinct group of gar-like fishes from the Early Cretaceous of Africa and South America, which likely diverged from the ancestors of true gars during the Late Jurassic. The oldest anatomically modern gar is Nhanulepisosteus from the Upper Jurassic (Kimmeridgian) of Mexico, around 157 million years old. Nhanulepisosteus inhabited a marine environment unlike modern gars, indicating that gars may have originally been marine fish prior to invading freshwater habitats before the Early Cretaceous. Although most succeeding gar fossils are known from freshwater environments, at least some marine gars are known to have persisted into the Late Cretaceous, with the likely marine Herreraichthys known from Mexico and the definitely marine Grandemarinus known from Morocco.Gars diversified in western North America throughout the Early Cretaceous. Atractosteus and Lepisosteus had already diverged by the end of the Early Cretaceous, about 105 million years ago. From western North America, gars dispersed to regions as disparate as Africa, India, South America and Europe, and fossil remains of gars were widespread worldwide by the end of the Cretaceous.Several different gar genera survived the Cretaceous-Paleogene extinction event, although they remained restricted to North America and Europe after this point. One species (Atractosteus grandei, a relative of the modern alligator gar) is the oldest known animal of the Cenozoic, with one fossil specimen dated to just a few thousand years after the Chicxulub impact, indicating a rapid recovery of freshwater ecosystems. Two short-snouted gar genera, Masillosteus and Cuneatus, are known from the Eocene in western North America and Europe, but disappear shortly afterwards. Lepisosteus and Atractosteus show a similar initial distribution and eventual contraction, but both genera dispersed to eastern North America prior to their disappearance from western North America and Europe, with Atractosteus also dispersing further south to the Neotropics. Eastern North America has since served as a vital refugium for gars, with Lepisosteus undergoing a diversification throughout it.
+
+Phylogeny
+The following phylogeny of extant and fossil gar genera was found by Brownstein et al. (2022):
+A slightly different phylogeny was found by Cooper et al (2023):
+
+Distribution
+Fossils indicate that gars formerly had a wider distribution, having been found on every continent except Australia and Antarctica. Living gars are confined to North America. The distribution of the gars in North America lies mainly in the shallow, brackish waters off of Texas, Louisiana, and the eastern coast of Mexico, as well as in some of the rivers and lakes that flow into them. A few populations are also present in the Great Lakes region of the United States, living in similar shallow waters.
+
+Anatomy
+Scales
+Gar bodies are elongated, heavily armored with ganoid scales, and fronted by similarly elongated jaws filled with long, sharp teeth. Their tails are heterocercal, and the dorsal fins are close to the tail.
+
+Swim bladder
+As their vascularised swim bladders can function as lungs, most gars surface periodically to take a gulp of air, doing so more frequently in stagnant or warm water when the concentration of oxygen in the water is low. Experiments on the swim bladder has shown that the temperature of the water affects which respiration method the gar will use - aerial or aquatic. They increase the aerial breathing rate (breathing air) as the temperature of the water is increased. Gars can live completely submerged in oxygenated water without access to air and remain healthy while also being able to survive in deoxygenated water if allowed access to air. This adaptation can be the result of environmental pressures and behavioral factors. As a result of this organ, they are extremely resilient and able to tolerate conditions that most other fish could not survive.
+
+Pectoral girdle
+The gar has paired pectoral fins and pelvic fins, as well as an anal fin, a caudal fin, and a dorsal fin. The bone structures within the fins are important to study as they can show homology throughout the fossil record. Specifically, the pelvic girdle resembles that of other actinopterygians while still having some of its own characteristics. Gars have a postcleithrun - which is a bone that is lateral to the scapula, but do not have postpectorals. Proximally to the postcleithrum, the supracleithrum is important as it plays a critical role in opening the gar's jaws. This structure has a unique internal coracoid lamina only present in the gar species. Near the supracleithrum is the posttemporal bone, which is significantly smaller than other actinopterygians. Gars also have no clavicle bone, although elongated plates have been observed within the area.
+
+Morphology
+All the gars are relatively large fish, but the alligator gar (Atractosteus spatula) is the largest. The largest alligator gar ever caught and officially recorded was 8 ft 5 in (2.6 m) long, weighed 327 lb (148 kg), and was 47 in (120 cm) around the girth. Even the smaller species, such as Lepisosteus oculatus, are large, commonly reaching lengths of over 60 cm (2.0 ft), and sometimes much longer.
+
+Ecology
+Gars tend to be slow-moving fish except when striking at their prey. They prefer the shallow and weedy areas of rivers, lakes, and bayous, often congregating in small groups. They are voracious predators, catching their prey in their needle-like teeth with a sideways strike of the head. They feed extensively on smaller fish and invertebrates such as crabs. Gars are found across much of the eastern portion of North America. Although gars are found primarily in freshwater habitats, several species enter brackish waters and a few, most notably Atractosteus tristoechus, are sometimes found in the sea. Some gars travel from lakes and rivers through sewers to get to ponds.
+
+Species and identification
+The gar family contains seven extant species, in two genera:
+Family Lepisosteidae
+
+Genus †Nhanulepisosteus Brito, Alvarado-Ortega & Meunier, 2017
+Genus †Masillosteus Micklich & Kappert, 2001
+Genus †Cuneatus Grande, 2010
+Tribe Lepisosteini
+Genus †Herreraichthys Alvarado-Ortega et al 2016
+Genus †Grandemarinus Cooper et al 2023
+Genus †Oniichthys Cavin & Brito, 2001
+Genus Atractosteus Rafinesque, 1820
+†"Atractosteus" africanus (Arambourg & Joleaud, 1943)  (nomen dubium)
+†Atractosteus grandei (Brownstein, Lyson, 2022)
+Atractosteus spatula (Lacépède, 1803) (alligator gar)
+Atractosteus tristoechus (Bloch & J. G. Schneider, 1801) (Cuban gar)
+Atractosteus tropicus Gill, 1863 (tropical gar)
+Genus Lepisosteus Linnaeus, 1758
+†Lepisosteus bemisi Grande, 2010
+†Lepisosteus cominatoi Santos, 1984
+†Lepisosteus fimbriatus (Wood 1846)
+†Lepisosteus indicus (Woodward, 1908)
+†Lepisosteus opertus Estes, 1964
+Lepisosteus oculatus Winchell, 1864 (spotted gar)
+Lepisosteus osseus (Linnaeus, 1758) (longnose gar)
+Lepisosteus platostomus Rafinesque, 1820 (shortnose gar)
+Lepisosteus platyrhincus DeKay, 1842 (Florida gar)
+
+Alligator gar
+The largest member of the gar family, the alligator gar (Atractosteus spatula), can measure up to 10 feet long and weigh over 300 pounds. Its body and snout are wide and stocky, and it was named "alligator gar" because locals often mistook it for an alligator. The species can be found in Texas, Oklahoma, Louisiana, the Mississippi River, Ohio, the Missouri river, and the southern drainages into Mexico. Its habitat consists of lakes and bays with slow currents. The gars grow rapidly when young and continue to grow at a slower rate after reaching adulthood. They are deep green or yellow in color. Recreational fishing of the alligator gar became popular due to its massive size and its meat is sold for food. Over five decades of overfishing have brought it close to extinction, and man-made dams have contributed to this loss by restricting the gar's access to the flood plain areas in which it spawns. Some U.S. states have enacted laws to combat overfishing, and reintroduction programs are being carried out in some states, such as Illinois, where human activity has extirpated the gar. Before being released, each gar must meet a length requirement to ensure that it has the best chance of survival in the wild. Some states, such as Texas, restrict the number of gar that may be caught in a day, the season in which they may be caught, and the equipment anglers may use to catch them. Some states also impose a minimum length requirement to prevent gar from being caught at too early an age. Scientists have found that the alligator gar can help maintain ecosystem balance by eating invasive species such as the Asian carp, and their success in a particular area can show scientists that area may also make a suitable habitat for other migratory species.
+
+Florida gar
+The Florida gar (Lepisosteus platyrhincus) can be found in the Ocklockonee river, Florida, and Georgia,  and prefers muddy or sandy bottoms with bountiful vegetation. It is commonly confused with its cousin, the spotted gar. Uneven black spots cover its head, body, and fins. Green-brown scales run along the back of its body, and the scales on its underbelly are white or yellow. This coloration, which blends well with the gar's surroundings, allows it to ambush its prey. The Florida gar has no ganoid scales on its throat. Female Florida gars grow to lengths between 13 and 34 inches, bigger than their male counterparts.
+
+Spotted gar
+The spotted gar (Lepisosteus oculatus) is a smaller species of gar, measuring just under four feet long and weighing 15 pounds on average. Like Florida gars, female spotted gars are typically larger than male spotted gars. This gar has dark spots covering its head, body, and fins. Its body is compact, and it has a shorter snout. It prefers to live in clearer shallow water with a depth of 3–5 meters, and to surround itself in foliage. Its habitat ranges from the waters of Lake Michigan, the Lake Erie Basin, the Mississippi River System, and river drainages along the northern coast of the Gulf of Mexico from the Nueces River in Texas east to the lower Apalachicola River in Florida. It shares its habitat with the alligator gar, its main predator. These smaller gar live an average of 18 years.
+
+Shortnose gar
+The shortnose gar (Lepisosteus platostomus) is found in the Mississippi River Basin, Indiana, Wisconsin, Montana, Alabama, and Louisiana. It prefers to live in lakes, swamps, and calm pools. The shortnose gar takes its name from its snout, which is shorter and broader than that of other gar species. Like the longnose gar, it has one row of teeth. The upper jaw is longer than the rest of its head. The shortnose gar is deep green or brown in color, similar to the alligator gar. Depending on the clarity of water, spots can be present on the caudal, dorsal, and anal fins. The shortnose gar has a lifespan of 20 years, reaches up to 5 pounds in weight, and grows to lengths of 24–35 inches. It consumes more invertebrates than any other gar, and their stomachs have been found to contain higher Asian carp content than any other native North American fish.
+
+Longnose gar
+The Longnose gar (Lepisosteus osseus) has a longer, narrower, more cylindrical body, and can be distinguished from other species of gar by its snout, which is more than twice the length of the rest of its head. It can reach up to 6 feet and 8 inches in length and weigh up to 35–80 pounds. Like the shortnose gar, it has only a single row of teeth. Unlike its relatives, it enters brackish water from time to time. Females are larger and live longer than the male longnose gar. Females live 22 years, and males about half as long. There are spots on the head, dorsal, anal, and caudal fins. Depending on the water clarity, the longnose gar comes in two colors. In clear water, they're a dark deep green color. In muddy waters, it is more brown in color. Edges of the ganoid scales and in between are black. These types of gar are occasionally fished by locals, and blamed for eating other fish in the rivers. The longnose gar has a large range of territory in North America, into the Gulf of Mexico. Located in Florida, Quebec, all Great Lakes except Lake Superior, Missouri, Mississippi, Texas, and northern Mexico.
+
+Roe
+The flesh of gar is edible, but its eggs contain an ichthyotoxin, a type of protein toxin which is highly toxic to humans. The protein can be denatured when brought to a temperature of 120 degrees Celsius, but as the roe's temperature does not typically reach that level when it is cooked, even cooked roe causes severe symptoms. It was once thought that the production of the toxin in gar roe was an evolutionary adaptation to provide protection for the eggs, but bluegills and channel catfish fed gar eggs in experiments remained healthy, even though they are the natural predators of the gar eggs. Crayfish fed the roe were not immune to the toxin, and most died. The roe's toxicities to humans and crayfish may be coincidences, however, and not the result of explicit natural selection.
+
+Significance to humans
+Several species are traded as aquarium fish. The hard ganoid scales of gars are sometimes used to make jewelry whereas the tough skin is used to make such items as lamp shades. Historically, Native Americans used gar scales as arrowheads, native Caribbeans used the skin for breastplates, and early American pioneers covered the blades of their plows with gar skin. Not much is known about the precise function of the gar in Native American religion and culture other than the ritual "garfish dances" that have been performed by Creek and Chickasaw tribes.
+
+References
+External links
+Family Lepisosteidae

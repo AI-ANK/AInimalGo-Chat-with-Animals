@@ -1,0 +1,45 @@
+The electric rays are a group of rays, flattened cartilaginous fish with enlarged pectoral fins, composing the order Torpediniformes . They are known for being capable of producing an electric discharge, ranging from 8 to 220 volts, depending on species, used to stun prey and for defense. There are 69 species in four families.
+Perhaps the best known members are those of the genus Torpedo. The torpedo undersea weapon is named after it. The name comes from the Latin torpere, 'to be stiffened or paralyzed', from the effect on someone who touches the fish.
+
+Description
+Electric rays have a rounded pectoral disc with two moderately large rounded-angular (not pointed or hooked) dorsal fins (reduced in some Narcinidae), and a stout muscular tail with a well-developed caudal fin. The body is thick and flabby, with soft loose skin with no dermal denticles or thorns. A pair of kidney-shaped electric organs are at the base of the pectoral fins. The snout is broad, large in the Narcinidae, but reduced in all other families. The mouth, nostrils, and five pairs of gill slits are underneath the disc.Electric rays are found from shallow coastal waters down to at least 1,000 m (3,300 ft) deep. They are sluggish and slow-moving, propelling themselves with their tails, not by using their pectoral fins as other rays do. They feed on invertebrates and small fish. They lie in wait for prey below the sand or other substrate, using their electricity to stun and capture it.
+
+Relationship to humans
+History of research
+The electrogenic properties of electric rays have been known since antiquity, although their nature was not understood. The ancient Greeks used electric rays to numb the pain of childbirth and operations. In his dialogue Meno, Plato has the character Meno accuse Socrates of "stunning" people with his puzzling questions, in a manner similar to the way the torpedo fish stuns with electricity. Scribonius Largus, a Roman physician, recorded the use of torpedo fish for treatment of headaches and gout in his Compositiones Medicae of 46 AD.In the 1770s the electric organs of the torpedo ray were the subject of Royal Society papers by John Walsh, and John Hunter. These appear to have influenced the thinking of Luigi Galvani and Alessandro Volta – the founders of electrophysiology and electrochemistry.Henry Cavendish proposed that electric rays use electricity; he built an artificial ray consisting of fish shaped Leyden jars to successfully mimic their behaviour in 1773.
+
+In folklore
+The torpedo fish, or electric ray, appears continuously in premodern natural histories as a magical creature, and its ability to numb fishermen without seeming to touch them was a significant source of evidence for the belief in occult qualities in nature during the ages before the discovery of electricity as an explanatory mode.
+
+Bioelectricity
+The electric rays have specialised electric organs. Many species of rays and skates outside the family have electric organs in the tail; however, the electric ray has two large kidney-shaped electric organs on each side of its head, where current passes from the lower to the upper surface of the body. The nerves that signal the organ to discharge branch repeatedly, then attach to the lower side of each plaque in the batteries. These are composed of hexagonal columns, closely packed in a honeycomb formation. Each column consists of 500 to more than 1000 plaques of modified striated muscle, adapted from the branchial (gill arch) muscles. In marine fish, these batteries are connected as a parallel circuit, whereas freshwater batteries are arranged in series. This allows freshwater rays to transmit discharges of higher voltage, as freshwater cannot conduct electricity as well as saltwater. With such a battery, an electric ray may electrocute larger prey with a voltage of between 8 volts in some narcinids to 220 volts in Torpedo nobiliana, the Atlantic torpedo.
+
+Systematics
+The 60 or so species of electric rays are grouped into 12 genera and two families. The Narkinae are sometimes elevated to a family, the Narkidae. The torpedinids feed on large prey, which are stunned using their electric organs and swallowed whole, while the narcinids specialize on small prey on or in the bottom substrate. Both groups use electricity for defense, but it is unclear whether the narcinids use electricity in feeding.
+Family Narcinidae (numbfishes)
+Subfamily Narcininae
+Genus Benthobatis
+Genus Diplobatis
+Genus Discopyge
+Genus Narcine
+Subfamily Narkinae (sleeper rays)
+Genus Crassinarke
+Genus Electrolux
+Genus Heteronarce
+Genus Narke
+Genus Temera
+Genus Typhlonarke
+Family Hypnidae (coffin rays)
+Subfamily Hypninae (coffin rays)
+Genus Hypnos
+Family Torpedinidae (torpedo electric rays)
+Subfamily Torpedininae
+Genus Tetronarce
+Genus Torpedo
+
+See also
+Endangered rays
+Electric fish
+
+
+== References ==

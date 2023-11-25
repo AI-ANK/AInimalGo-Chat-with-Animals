@@ -1,0 +1,266 @@
+Chitons () are marine molluscs of varying size in the class Polyplacophora (), formerly known as Amphineura. About 940 extant and 430 fossil species are recognized.
+They are also sometimes known as sea cradles or coat-of-mail shells or suck-rocks, or more formally as loricates, polyplacophorans, and occasionally as polyplacophores.
+Chitons have a shell composed of eight separate shell plates or valves. These plates overlap slightly at the front and back edges, and yet articulate well with one another. Because of this, the shell provides protection at the same time as permitting the chiton to flex upward when needed for locomotion over uneven surfaces, and even allows the animal to curl up into a ball when dislodged from rocks. The shell plates are encircled by a skirt known as a girdle.
+
+Habitat
+Chitons live worldwide, from cold waters through to the tropics. They live on hard surfaces, such as on or under rocks, or in rock crevices.
+Some species live quite high in the intertidal zone and are exposed to the air and light for long periods. Most species inhabit intertidal or subtidal zones, and do not extend beyond the photic zone, but a few species live in deep water, as deep as 6,000 m (20,000 ft).Chitons are exclusively and fully marine, in contrast to the bivalves, which were able to adapt to brackish water and fresh water, and the gastropods which were able to make successful transitions to freshwater and terrestrial environments.
+
+Morphology
+Shell
+All chitons bear a protective dorsal shell that is divided into eight articulating aragonite valves embedded in the tough muscular girdle that surrounds the chiton's body. Compared with the single or two-piece shells of other molluscs, this arrangement allows chitons to roll into a protective ball when dislodged and to cling tightly to irregular surfaces. In some species the valves are reduced or covered by the girdle tissue. The valves are variously colored, patterned, smooth, or sculptured. 
+
+The most anterior plate is crescent-shaped, and is known as the cephalic plate (sometimes called a head plate, despite the absence of a complete head). The most posterior plate is known as the anal plate (sometimes called the tail plate, although chitons do not have tails.)
+The inner layer of each of the six intermediate plates is produced anteriorly as an articulating flange, called the articulamentum. This inner layer may also be produced laterally in the form of notched insertion plates. These function as an attachment of the valve plates to the soft body. A similar series of insertion plates may be attached to the convex anterior border of the cephalic plate or the convex posterior border of the anal plate.The sculpture of the valves is one of the taxonomic characteristics, along with the granulation or spinulation of the girdle.After a chiton dies, the individual valves which make up the eight-part shell come apart because the girdle is no longer holding them together, and then the plates sometimes wash up in beach drift. The individual shell plates from a chiton are sometimes known as butterfly shells due to their shape.
+
+Girdle ornament
+The girdle may be ornamented with scales or spicules which, like the shell plates, are mineralized with aragonite — although a different mineralization process operates in the spicules to that in the teeth or shells (implying an independent evolutionary innovation). This process seems quite simple in comparison to other shell tissue; in some taxa, the crystal structure of the deposited minerals closely resembles the disordered nature of crystals that form inorganically, although more order is visible in other taxa.The protein component of the scales and sclerites is minuscule in comparison with other biomineralized structures, whereas the total proportion of matrix is 'higher' than in mollusc shells. This implies that polysaccharides make up the bulk of the matrix. The girdle spines often bear length-parallel striations.The wide form of girdle ornament suggests it serves a secondary role; chitons can survive perfectly well without them. Camouflage or defence are two likely functions. Certainly species such as some members of the genus Acanthochitona bear conspicuous paired tufts of spicules on the girdle. The spicules are sharp, and if carelessly handled, easily penetrate the human skin, where they detach and remain as a painful irritant.Spicules are secreted by cells that do not express engrailed, but these cells are surrounded by engrailed-expressing cells. These neighbouring cells secrete an organic pellicle on the outside of the developing spicule, whose aragonite is deposited by the central cell; subsequent division of this central cell allows larger spines to be secreted in certain taxa.
+The organic pellicule is found in most polyplacophora (but not basal chitons, such as Hanleya) but is unusual in aplacophora. Developmentally, sclerite-secreting cells arise from pretrochal and postrochal cells: the 1a, 1d, 2a, 2c, 3c and 3d cells. The shell plates arise primarily from the 2d micromere, although 2a, 2b, 2c and sometimes 3c cells also participate in its secretion.
+
+Internal anatomy
+The girdle is often ornamented with spicules, bristles, hairy tufts, spikes, or snake-like scales. The majority of the body is a snail-like foot, but no head or other soft parts beyond the girdle are visible from the dorsal side.
+The mantle cavity consists of a narrow channel on each side, lying between the body and the girdle. Water enters the cavity through openings in either side of the mouth, then flows along the channel to a second, exhalant, opening close to the anus. Multiple gills hang down into the mantle cavity along part or all of the lateral pallial groove, each consisting of a central axis with a number of flattened filaments through which oxygen can be absorbed.The three-chambered heart is located towards the animal's hind end. Each of the two auricles collects blood from the gills on one side, while the muscular ventricle pumps blood through the aorta and round the body.
+The excretory system consists of two nephridia, which connect to the pericardial cavity around the heart, and remove excreta through a pore that opens near the rear of the mantle cavity. The single gonad is located in front of the heart, and releases gametes through a pair of pores just in front of those used for excretion.
+The mouth is located on the underside of the animal, and contains a tongue-like structure called a radula, which has numerous rows of 17 teeth each. The teeth are coated with magnetite, a hard ferric/ferrous oxide mineral. The radula is used to scrape microscopic algae off the substratum. The mouth cavity itself is lined with chitin and is associated with a pair of salivary glands. Two sacs open from the back of the mouth, one containing the radula, and the other containing a protrusible sensory subradular organ that is pressed against the substratum to taste for food.Cilia pull the food through the mouth in a stream of mucus and through the oesophagus, where it is partially digested by enzymes from a pair of large pharyngeal glands. The oesophagus, in turn, opens into a stomach, where enzymes from a digestive gland complete the breakdown of the food. Nutrients are absorbed through the linings of the stomach and the first part of the intestine. The intestine is divided in two by a sphincter, with the latter part being highly coiled and functioning to compact the waste matter into faecal pellets. The anus opens just behind the foot.Chitons lack a clearly demarcated head; their nervous system resembles a dispersed ladder. No true ganglia are present, as in other molluscs, although a ring of dense neural tissue occurs around the oesophagus. From this ring, nerves branch forwards to innervate the mouth and subradula, while two pairs of main nerve cords run back through the body. One pair, the pedal cords, innervate the foot, while the palliovisceral cords innervate the mantle and remaining internal organs.Some species bear an array of tentacles in front of the head.
+
+Senses
+The primary sense organs of chitons are the subradular organ and a large number of unique organs called aesthetes. The aesthetes consist of light-sensitive cells just below the surface of the shell, although they are not capable of true vision. In some cases, however, they are modified to form ocelli, with a cluster of individual photoreceptor cells lying beneath a small aragonite-based lens. Each lens can form clear images, and is composed of relatively large, highly crystallographically aligned grains to minimize light scattering. An individual chiton may have thousands of such ocelli. These aragonite-based eyes make them capable of true vision; though research continues as to the extent of their visual acuity. It is known that they can differentiate between a predator's shadow and changes in light caused by clouds. An evolutionary trade-off has led to a compromise between the eyes and the shell; as the size and complexity of the eyes increase, the mechanical performance of their shells decrease, and vice versa.A relatively good fossil record of chiton shells exists, but ocelli are only present in those dating to 10 million years ago or younger; this would make the ocelli, whose precise function is unclear, likely the most recent eyes to evolve.Although chitons lack osphradia, statocysts, and other sensory organs common to other molluscs, they do have numerous tactile nerve endings, especially on the girdle and within the mantle cavity.
+The order Lepidopleurida also have a pigmented sensory organ called the Schwabe organ. Its function remains largely unknown, and has been suggested to be related to that of a larval eye.However, chitons lack a cerebral ganglion.
+
+Homing ability
+Similar to many species of saltwater limpets, several species of chiton are known to exhibit homing behaviours, journeying to feed and then returning to the exact spot they previously inhabited. The method they use to perform such behaviors has been investigated to some extent, but remains unknown. One theory has the chitons remembering the topographic profile of the region, thus being able to guide themselves back to their home scar by a physical knowledge of the rocks and visual input from their numerous primitive eyespots.
+The sea snail Nerita textilis (like all gastropods) deposits a mucus trail as it moves, which a chemoreceptive organ is able to detect and guide the snail back to its home site. It is unclear if chiton homing functions in the same way, but they may leave chemical cues along the rock surface and at the home scar which their olfactory senses can detect and home in on. Furthermore, older trails may also be detected, providing further stimulus for the chiton to find its home.The radular teeth of chitons are made of magnetite, and the iron crystals within these may be involved in magnetoreception, the ability to sense the polarity and the inclination of the Earth's magnetic field. Experimental work has suggested that chitons can detect and respond to magnetism.
+
+Culinary uses
+Chitons are eaten in several parts of the world. This includes islands in the Caribbean, such as Trinidad, Tobago, The Bahamas, St. Maarten, Aruba, Bonaire, Anguilla and Barbados, as well as in Bermuda. They are also traditionally eaten in certain parts of the Philippines, where it is called kibet if raw and chiton if fried. Native Americans of the Pacific coasts of North America eat chitons. They are a common food on the Pacific coast of South America and in the Galápagos. The foot of the chiton is prepared in a manner similar to abalone. Some islanders living in South Korea also eat chiton, slightly boiled and mixed with vegetables and hot sauce. Aboriginal people in Australia also eat chiton; for example they are recorded in the Narungga Nation Traditional Fishing Agreement.
+
+Life habits
+A chiton creeps along slowly on a muscular foot. It has considerable power of adhesion and can cling to rocks very powerfully, like a limpet.
+Chitons are generally herbivorous grazers, though some are omnivorous and some carnivorous. They eat algae, bryozoans, diatoms, barnacles, and sometimes bacteria by scraping the rocky substrate with their well-developed radulae.
+A few species of chitons are predatory, such as the small western Pacific species Placiphorella velata. These predatory chitons have enlarged anterior girdles. They catch other small invertebrates, such as shrimp and possibly even small fish, by holding the enlarged, hood-like front end of the girdle up off the surface, and then clamping down on unsuspecting, shelter-seeking prey.
+
+Reproduction and life cycle
+Chitons have separate sexes, and fertilization is usually external. The male releases sperm into the water, while the female releases eggs either individually, or in a long string. In most cases, fertilization takes place either in the surrounding water, or in the mantle cavity of the female. Some species brood the eggs within the mantle cavity, and the species Callistochiton viviparus even retains them within the ovary and gives birth to live young, an example of ovoviviparity.
+The egg has a tough spiny coat, and usually hatches to release a free-swimming trochophore larva, typical of many other mollusc groups. In a few cases, the trochophore remains within the egg (and is then called lecithotrophic – deriving nutrition from yolk), which hatches to produce a miniature adult. Unlike most other molluscs, there is no intermediate stage, or veliger, between the trochophore and the adult. Instead, a segmented shell gland forms on one side of the larva, and a foot forms on the opposite side. When the larva is ready to become an adult, the body elongates, and the shell gland secretes the plates of the shell. Unlike the fully grown adult, the larva has a pair of simple eyes, although these may remain for some time in the immature adult.
+
+Predators
+Animals which prey on chitons include humans, seagulls, sea stars, crabs, lobsters and fish.
+
+Evolutionary origins
+Chitons have a relatively good fossil record, stretching back to the Cambrian, with the genus Preacanthochiton, known from fossils found in Late Cambrian deposits in Missouri, being classified as the earliest known polyplacophoran. However, the exact phylogenetic position of supposed Cambrian chitons is highly controversial, and some authors have instead argued that the earliest confirmed polyplacophorans date back to the Early Ordovician. Kimberella and Wiwaxia of the Precambrian and Cambrian may be related to ancestral polyplacophorans. Matthevia is a Late Cambrian polyplacophoran preserved as individual pointed valves, and sometimes considered to be a chiton, although at the closest, it can only be a stem-group member of the group.
+Based on this and co-occurring fossils, one plausible hypothesis for the origin of polyplacophora has that they formed when an aberrant monoplacophoran was born with multiple centres of calcification, rather than the usual one. Selection quickly acted on the resultant conical shells to form them to overlap into protective armour; their original cones are homologous to the tips of the plates of modern chitons.The chitons evolved from multiplacophora during the Palaeozoic, with their relatively conserved modern-day body plan being fixed by the Mesozoic.The earliest fossil evidence of aesthetes in chitons comes from around 400 Ma, during the Early Devonian.
+
+History of scientific investigation
+Chitons were first studied by Carl Linnaeus in his 1758 10th edition of Systema Naturae. Since his description of the first four species, chitons have been variously classified. They were called Cyclobranchians (round arm) in the early 19th century, and then grouped with the aplacophorans in the subphylum Amphineura in 1876. The class Polyplacophora was named by de Blainville 1816.
+
+Etymology
+The name chiton is Neo-Latin derived from the Ancient Greek word khitōn, meaning tunic (which also is the source of the word chitin). The Ancient Greek word khitōn can be traced to the Central Semitic word *kittan, which is from the Akkadian words kitû or kita'um, meaning flax or linen, and originally the Sumerian word gada or gida.The Greek-derived name Polyplacophora comes from the words poly- (many), plako- (tablet), and -phoros (bearing), a reference to the chiton's eight shell plates.
+
+Taxonomy
+Most classification schemes in use today are based, at least in part, on Pilsbry's Manual of Conchology (1892–1894), extended and revised by Kaas and Van Belle (1985–1990).
+Since chitons were first described by Linnaeus (1758), extensive taxonomic studies at the species level have been made. However, the taxonomic classification at higher levels in the group has remained somewhat unsettled.
+The most recent classification, by Sirenko (2006), is based not only on shell morphology, as usual, but also other important features, including aesthetes, girdle, radula, gills, glands, egg hull projections, and spermatozoids. It includes all the living and extinct genera of chitons.
+Further resolution within the Chitonida has been recovered through molecular analysis.This system is now generally accepted.
+
+Class Polyplacophora de Blainville, 1816
+†Subclass Paleoloricata Bergenhayn, 1955
+†Order Chelodida Bergenhayn, 1943
+†Family Chelodidae Bergenhayn, 1943
+†Chelodes Davidson & King, 1874
+†Euchelodes Marek, 1962
+†Calceochiton Flower, 1968
+†Order Septemchitonida Bergenhayn, 1955
+†Family Gotlandochitonidae Bergenhayn, 1955
+†Gotlandochiton Bergenhayn, 1955
+†Family Helminthochitonidae Van Belle, 1975
+†Kindbladochiton Van Belle, 1975
+†Diadelochiton Hoare, 2000
+†Helminthochiton Salter in Griffith & M'Coy, 1846
+†Echinochiton Pojeta, Eernisse, Hoare & Henderson, 2003
+†Family Septemchitonidae Bergenhayn, 1955
+†Septemchiton Bergenhayn, 1955
+†Paleochiton A. G. Smith, 1964
+†Thairoplax Cherns, 1998
+Subclass Loricata Shumacher, 1817
+Order Lepidopleurida Thiele, 1910
+Suborder Cymatochitonina Sirenko & Starobogatov, 1977
+Family Acutichitonidae Hoare, Mapes & Atwater, 1983
+Acutichiton Hoare, Sturgeon & Hoare, 1972
+Elachychiton Hoare, Sturgeon & Hoare, 1972
+Harpidochiton Hoare & Cook, 2000
+Arcochiton Hoare, Sturgeon & Hoare, 1972
+Kraterochiton Hoare, 2000
+Soleachiton Hoare, Sturgeon & Hoare, 1972
+Asketochiton Hoare & Sabattini, 2000
+Family †Cymatochitonidae Sirenko & Starobogatov, 1977
+†Cymatochiton Dall, 1882
+†Compsochiton Hoare & Cook, 2000
+Family Gryphochitonidae Pilsbry, 1900
+Gryphochiton Gray, 1847
+Family Lekiskochitonidae Smith & Hoare, 1987
+Lekiskochiton Hoare & Smith, 1984
+†Family Permochitonidae Sirenko & Starobogatov, 1977
+†Permochiton Iredale & Hull, 1926
+Suborder Lepidopleurina Thiele, 1910
+Family Abyssochitonidae (synonym: Ferreiraellidae) Dell' Angelo & Palazzi, 1991
+Glaphurochiton Raymond, 1910
+?Pyknochiton Hoare, 2000
+?Hadrochiton Hoare, 2000
+Ferreiraella Sirenko, 1988
+†Family Glyptochitonidae Starobogatov & Sirenko, 1975
+†Glyptochiton Konninck, 1883
+Family Leptochitonidae Dall, 1889
+Colapterochiton Hoare & Mapes, 1985
+Coryssochiton DeBrock, Hoare & Mapes, 1984
+Proleptochiton Sirenko & Starobogatov, 1977
+Schematochiton Hoare, 2002
+Pterochiton (Carpenter MS) Dall, 1882
+Leptochiton Gray, 1847
+Parachiton Thiele, 1909
+Terenochiton Iredale, 1914
+Trachypleura Jaeckel, 1900
+Pseudoischnochiton Ashby, 1930
+Lepidopleurus Risso, 1826
+Hanleyella Sirenko, 1973
+Family †Camptochitonidae Sirenko, 1997
+Camptochiton DeBrock, Hoare & Mapes, 1984
+Pedanochiton DeBrock, Hoare & Mapes, 1984
+Euleptochiton Hoare & Mapes, 1985
+Pileochiton DeBrock, Hoare & Mapes, 1984
+Chauliochiton Hoare & Smith, 1984
+Stegochiton Hoare & Smith, 1984
+Family Nierstraszellidae Sirenko, 1992
+Nierstraszella Sirenko, 1992
+Family Mesochitonidae Dell' Angelo & Palazzi, 1989
+Mesochiton Van Belle, 1975
+Pterygochiton Rochebrune, 1883
+Family Protochitonidae Ashby, 1925
+Protochiton Ashby, 1925
+Deshayesiella (Carpenter MS) Dall, 1879
+Oldroydia Dall, 1894
+Family Hanleyidae Bergenhayn, 1955
+Hanleya Gray, 1857
+Hemiarthrum Dall, 1876
+Order Chitonida Thiele, 1910
+Suborder Chitonina Thiele, 1910
+Superfamily Chitonoidea Rafinesque, 1815
+Family Ochmazochitonidae Hoare & Smith, 1984
+Ochmazochiton Hoare & Smith, 1984
+Family Ischnochitonidae Dall, 1889
+Ischnochiton Gray, 1847
+Stenochiton H. Adams & Angas, 1864
+Stenoplax (Carpenter MS) Dall, 1879
+Lepidozona Pilsbry, 1892
+Stenosemus Middendorff, 1847
+Subterenochiton Iredale & Hull, 1924
+Thermochiton Saito & Okutani, 1990
+Connexochiton Kaas, 1979
+Tonicina Thiele, 1906
+Family Callistoplacidae Pilsbry, 1893
+Ischnoplax Dall, 1879
+Callistochiton Carpenter MS, Dall, 1879
+Callistoplax Dall, 1882
+Ceratozona Dall, 1882
+Calloplax Thiele, 1909
+Family Chaetopleuridae Plate, 1899
+Chaetopleura Shuttleworth, 1853
+Dinoplax Carpenter MS, Dall, 1882
+Family Loricidae Iredale & Hull, 1923
+Lorica H. & A. Adams, 1852
+Loricella Pilsbry, 1893
+Oochiton Ashby, 1929
+Family Callochitonidae Plate, 1901
+Callochiton Gray, 1847
+Eudoxochiton Shuttleworth, 1853
+Vermichiton Kaas, 1979
+Family Chitonidae Rafinesque, 1815
+Subfamily Chitoninae Rafinesque, 1815
+Chiton Linnaeus, 1758
+Amaurochiton Thiele, 1893
+Radsia Gray, 1847
+Sypharochiton Thiele, 1893
+Nodiplax Beu, 1967
+Rhyssoplax Thiele, 1893
+Teguloaplax Iredale & Hull, 1926
+Mucrosquama Iredale, 1893
+Subfamily Toniciinae Pilsbry, 1893
+Tonicia Gray, 1847
+Onithochiton Gray, 1847
+Subfamily Acanthopleurinae Dall, 1889
+Acanthopleura Guilding, 1829
+Liolophura Pilsbry, 1893
+Enoplochiton Gray, 1847
+Squamopleura Nierstrasz, 1905
+Superfamily Schizochitonoidea Dall, 1889
+Family Schizochitonidae Dall, 1889
+Incissiochiton Van Belle, 1985
+Schizochiton Gray, 1847
+Suborder Acanthochitonina Bergenhayn, 1930
+Superfamily Mopalioidea Dall, 1889
+Family Tonicellidae Simroth, 1894
+Subfamily Tonicellinae Simroth, 1894
+Lepidochitona Gray, 1821
+Particulazona Kaas, 1993
+Boreochiton Sars, 1878
+Tonicella Carpenter, 1873
+Nuttallina (Carpenter MS) Dall, 1871
+Spongioradsia Pilsbry, 1894
+Oligochiton Berry, 1922
+Subfamily Juvenichitoninae Sirenko, 1975
+Juvenichiton Sirenko, 1975
+Micichiton Sirenko, 1975
+Nanichiton Sirenko, 1975
+Family Schizoplacidae Bergenhayn, 1955
+Schizoplax Dall, 1878
+Family Mopaliidae Dall, 1889
+Subfamily Heterochitoninae Van Belle, 1978
+Heterochiton Fucini, 1912
+Allochiton Fucini, 1912
+Subfamily Mopaliinae Dall, 1889
+Aerilamma Hull, 1924
+Guildingia Pilsbry, 1893
+Frembleya H. Adams, 1866
+Diaphoroplax Iredale, 1914
+Plaxiphora Gray, 1847
+Placiphorina Kaas & Van Belle, 1994
+Nuttallochiton Plate, 1899
+Mopalia Gray, 1847
+Maorichiton Iredale, 1914
+Placiphorella (Carpenter MS) Dall, 1879
+Katharina Gray, 1847
+Amicula Gray, 1847
+Superfamily Cryptoplacoidea H. & A. Adams, 1858
+Family Acanthochitonidae Pilsbry, 1893
+Subfamily Acanthochitoninae Pilsbry, 1893
+Acanthochitona Gray, 1921
+Craspedochiton Shuttleworth, 1853
+Spongiochiton (Carpenter MS) Dall, 1882
+Notoplax H. Adams, 1861
+Pseudotonicia Ashby, 1928
+Bassethullia Pilsbry, 1928
+Americhiton Watters, 1990
+Choneplax (Carpenter MS) Dall, 1882
+Cryptoconchus (de Blainville MS) Burrow, 1815
+Subfamily Cryptochitoninae Pilsbry, 1893
+Cryptochiton Middendorff, 1847
+Family Hemiarthridae Sirenko, 1997
+Hemiarthrum Carpenter in Dall, 1876
+Weedingia Kaas, 1988
+Family Choriplacidae Ashby, 1928
+Choriplax Pilsbry, 1894
+Family Cryptoplacidae H. & A. Adams, 1858
+Cryptoplax de Blainville, 1818
+Incertae sedis
+Family Scanochitonidae Bergenhayn, 1955
+Scanochiton Bergenhayn, 1955
+Family Olingechitonidae Starobogatov & Sirenko, 1977
+Olingechiton Bergenhayn, 1943
+Family Haeggochitonidae Sirenko & Starobogatov, 1977
+Haeggochiton Bergenhayn, 1955
+Family Ivoechitonidae Sirenko & Starobogatov, 1977
+Ivoechiton Bergenhayn, 1955
+
+References
+External links
+
+Extensive list of species, classified by families

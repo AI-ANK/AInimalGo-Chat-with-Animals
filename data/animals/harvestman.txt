@@ -1,0 +1,145 @@
+The Opiliones (formerly Phalangida) are an order of arachnids colloquially known as harvestmen, harvesters, harvest spiders, or daddy longlegs. As of April 2017, over 6,650 species of harvestmen have been discovered worldwide, although the total number of extant species may exceed 10,000. The order Opiliones includes five suborders: Cyphophthalmi, Eupnoi, Dyspnoi, Laniatores, and Tetrophthalmi, which were named in 2014.Representatives of each extant suborder can be found on all continents except Antarctica.
+Well-preserved fossils have been found in the 400-million-year-old Rhynie cherts of Scotland, and 305-million-year-old rocks in France. These fossils look surprisingly modern, indicating that their basic body shape developed very early on, and, at least in some taxa, has changed little since that time.
+Their phylogenetic position within the Arachnida is disputed; their closest relatives may be the mites (Acari) or the Novogenuata (the Scorpiones, Pseudoscorpiones, and Solifugae). Although superficially similar to and often misidentified as spiders (order Araneae), the Opiliones are a distinct order that is not closely related to spiders. They can be easily distinguished from long-legged spiders by their fused body regions and single pair of eyes in the middle of the cephalothorax. Spiders have a distinct abdomen that is separated from the cephalothorax by a constriction, and they have three to four pairs of eyes, usually around the margins of the cephalothorax.
+English speakers may colloquially refer to species of Opiliones as "daddy longlegs" or "granddaddy longlegs", but this name is also used for two other distantly related groups of arthropods, the crane flies of the superfamily Tipuloidea, and the cellar spiders of the family Pholcidae, (commonly referred to as "daddy long-leg spiders") most likely because of their similar appearance. Harvestmen are also referred to as "shepherd spiders" in reference to how their unusually long legs reminded observers of the ways that some European shepherds used stilts to better observe their wandering flocks from a distance.
+
+Description
+The Opiliones are known for having exceptionally long legs relative to their body size; however, some species are short-legged. As in all Arachnida, the body in the Opiliones has two tagmata, the anterior cephalothorax or prosoma, and the posterior 10-segmented abdomen or opisthosoma. The most easily discernible difference between harvestmen and spiders is that in harvestmen, the connection between the cephalothorax and abdomen is broad, so that the body appears to be a single oval structure. Other differences include the fact that Opiliones have no venom glands in their chelicerae, so pose no danger to humans.
+They also have no silk glands and therefore do not build webs. In some highly derived species, the first five abdominal segments are fused into a dorsal shield called the scutum, which in most such species is fused with the carapace. Some such Opiliones only have this shield in the males. In some species, the two posterior abdominal segments are reduced. Some of them are divided medially on the surface to form two plates beside each other. The second pair of legs is longer than the others and function as antennae or feelers. In short-legged species, this may not be obvious.
+The feeding apparatus (stomotheca) differs from most arachnids in that Opiliones can swallow chunks of solid food, not only liquids. The stomotheca is formed by extensions of the coxae of the pedipalps and the first pair of legs.
+Most Opiliones, except for Cyphophthalmi, have a single pair of eyes in the middle of the head, oriented sideways. Eyes in Cyphophthalmi, when present, are located laterally, near the ozopores. A 305-million-year-old fossilized harvestman with two pairs of eyes was reported in 2014. This find indicates that the eyes in Cyphophthalmi are not homologous to the eyes of other harvestmen. However, some species are eyeless, such as the Brazilian Caecobunus termitarum (Grassatores) from termite nests, Giupponia chagasi (Gonyleptidae) from caves, most species of Cyphophthalmi, and all species of the Guasiniidae.
+Harvestmen have a pair of prosomatic defensive scent glands (ozopores) that secrete a peculiar-smelling fluid when disturbed. In some species, the fluid contains noxious quinones. They do not have book lungs, and breathe through tracheae. A pair of spiracles is located between the base of the fourth pair of legs and the abdomen, with one opening on each side. In more active species, spiracles are also found upon the tibia of the legs. They have a gonopore on the ventral cephalothorax, and the copulation is direct as male Opiliones have a penis, unlike other arachnids. All species lay eggs.
+Typical body length does not exceed 7 mm (0.28 in), and some species are smaller than 1 mm, although the largest known species, Trogulus torosus (Trogulidae), grows as long as 22 mm (0.87 in). The leg span of many species is much greater than the body length and sometimes exceeds 160 mm (6.3 in) and to 340 mm (13 in) in Southeast Asia. Most species live for a year.
+
+Behavior
+Many species are omnivorous, eating primarily small insects and all kinds of plant material and fungi. Some are scavengers, feeding upon dead organisms, bird dung, and other fecal material. Such a broad range is unusual in arachnids, which are typically pure predators. Most hunting harvestmen ambush their prey, although active hunting is also found. Because their eyes cannot form images, they use their second pair of legs as antennae to explore their environment. Unlike most other arachnids, harvestmen do not have a sucking stomach or a filtering mechanism. Rather, they ingest small particles of their food, thus making them vulnerable to internal parasites such as gregarines.Although parthenogenetic species do occur, most harvestmen reproduce sexually. Except from small fossorial species in the suborder Cyphophthalmi, where the males deposit a spermatophore, mating involves direct copulation. The females store the sperm, which is aflagellate and immobile, at the tip of her ovipositor. The eggs are fertilized during oviposition. The males of some species offer a secretion (nuptial gift) from their chelicerae to the female before copulation. Sometimes, the male guards the female after copulation, and in many species, the males defend territories. In some species, males also exhibit post-copulatory behavior in which the male specifically seeks out and shakes the female's sensory leg. This is believed to entice the female into mating a second time.The female lays her eggs shortly after mating to several months later. Some species build nests for this purpose. A unique feature of harvestmen is that some species practice parental care, in which the male is solely responsible for guarding the eggs resulting from multiple partners, often against egg-eating females, and cleaning the eggs regularly. Paternal care has evolved at least three times independently: once in the clade Progonyleptoidellinae + Caelopyginae, once in the Gonyleptinae, and once in the Heteropachylinae. Maternal care in opiliones probably evolved due to natural selection, while paternal care appears to be the result of sexual selection. Depending on circumstances such as temperature, the eggs may hatch at any time after the first 20 days, up to about half a year after being laid. Harvestmen variously pass through four to eight nymphal instars to reach maturity, with most known species having six instars.Most species are nocturnal and colored in hues of brown, although a number of diurnal species are known, some of which have vivid patterns in yellow, green, and black with varied reddish and blackish mottling and reticulation.
+Many species of harvestmen easily tolerate members of their own species, with aggregations of many individuals often found at protected sites near water. These aggregations may number 200 individuals in the Laniatores, and more than 70,000 in certain Eupnoi. Gregarious behavior is likely a strategy against climatic odds, but also against predators, combining the effect of scent secretions, and reducing the probability of any particular individual being eaten.Harvestmen clean their legs after eating by drawing each leg in turn through their jaws.
+
+Antipredator defenses
+Predators of harvestmen include a variety of animals, including some mammals, amphibians, and other arachnids like spiders and scorpions. Opiliones display a variety of primary and secondary defenses against predation, ranging from morphological traits such as body armor to behavioral responses to chemical secretions. Some of these defenses have been attributed and restricted to specific groups of harvestmen.
+
+Primary defenses
+Primary defenses help the harvestmen avoid encountering a potential predator, and include crypsis, aposematism, and mimicry.
+
+Crypsis
+Particular patterns or color markings on harvestmen's bodies can reduce detection by disrupting the animals' outlines or providing camouflage. Markings on legs can cause an interruption of the leg outline and loss of leg proportion recognition. Darker colorations and patterns function as camouflage when they remain motionless. Within the genus Leiobunum are multiple species with cryptic coloration that changes over ontogeny to match the microhabitat used at each life stage. Many species have also been able to camouflage their bodies by covering with secretions and debris from the leaf litter found in their environments. Some hard-bodied harvestmen have epizoic cyanobacteria and liverworts growing on their bodies that suggest potential benefits for camouflage against large backgrounds to avoid detection by diurnal predators.
+
+Aposematism and mimicry
+Some harvestmen have elaborate and brightly colored patterns or appendages which contrast with the body coloration, potentially serving as an aposematic warning to potential predators. This mechanism is thought to be commonly used during daylight, when they could be easily seen by any predators.
+Other harvestmen may exhibit mimicry to resemble other species’ appearances. Some Gonyleptidae individuals that produce translucid secretions have orange markings on their carapaces. This may have an aposematic role by mimicking the coloration of glandular emissions of two other quinone-producing species. Mimicry (Müllerian mimicry) occurring between Brazilian harvestmen that resemble others could be explained by convergent evolution.
+
+Secondary defenses
+Secondary defenses allow for harvestmen to escape and survive from a predator after direct or indirect contact, including thanatosis, freezing, bobbing, autotomy, fleeing, stridulation, retaliation, and chemical secretions.
+
+Thanatosis
+Some animals respond to attacks by simulating an apparent death to avoid either detection or further attacks. Arachnids such as spiders practice this mechanism when threatened or even to avoid being eaten by female spiders after mating. Thanatosis is used as a second line of defense when detected by a potential predator and is commonly observed within the Dyspnoi and Laniatores suborders, with individuals becoming rigid with legs either retracted or stretched.
+
+Freezing
+Freezing – or the complete halt of movement – has been documented in the family Sclerosomatidae. While this can mean an increased likelihood of immediate survival, it also leads to reduced food and water intake.
+
+Bobbing
+To deflect attacks and enhance escape, long-legged species – commonly known as daddy long-legs – from the Eupnoi suborder, use two mechanisms. One is bobbing, for which these particular individuals bounce their bodies. It potentially serves to confuse and deflect any identification of the exact location of their bodies. This can be a deceiving mechanism to avoid predation when they are in a large aggregation of individuals, which are all trembling at the same time. Cellar spiders (Pholcidae) that are commonly mistaken for daddy long-legs (Opiliones) also exhibit this behavior when their webs are disturbed or even during courtship.
+
+Autotomy
+Autotomy is the voluntary amputation of an appendage, and is employed to escape when restrained by a predator. Eupnoi individuals, more specifically sclerosomatid harvestmen, commonly use this strategy in response to being captured. This strategy can be costly because harvestmen do not regenerate their legs, and leg loss reduces locomotion, speed, climbing ability, sensory perception, food detection, and territoriality.Autotomized legs provide a further defense from predators because they can twitch for 60 seconds to an hour after detachment. This can also potentially serve as deflection from an attack and deceive a predator from attacking the animal. It has been shown to be successful against ants and spiders.The legs continue to twitch after they are detached because 'pacemakers' are located in the ends of the first long segment (femur) of their legs. These pacemakers send signals via the nerves to the muscles to extend the leg and then the leg relaxes between signals. While some harvestman's legs twitch for a minute, others have been recorded to twitch up to an hour. The twitching has been hypothesized to function as an evolutionary advantage by keeping the attention of a predator while the harvestman escapes.
+
+Fleeing
+Individuals that are able to detect potential threats can flee rapidly from attack. This is seen with multiple long-legged species in the Leiobunum clade that either drop and run, or drop and remain motionless. This is also seen when disturbing an aggregation of multiple individuals, where they all scatter.
+
+Stridulation
+Multiple species within the Laniatores and Dyspnoi possess stridulating organs, which are used as intraspecific communication and have also been shown to be used as a second line of defense when restrained by a predator.
+
+Retaliation
+Armored harvestmen in Laniatores can often use their modified morphology as weapons. Many have spines on their pedipalps, back legs, or bodies. By pinching with their chelicerae and pedipalps, they can cause harm to a potential predator. Also this has been proven to increase survival against recluse spiders by causing injury, allowing the harvestman to escape from predation.
+
+Chemical
+Harvestmen are well known for being chemically protected. They exude strongly odored secretions from their scent glands, called ozopores, that act as a shield against predators; this is the most effective defense they use which creates a strong and unpleasant taste. In Cyphophthalmi the scent glands release naphthoquinones, chloro-naphthoquinones and aliphatic methyl ketones, Insidiatores use nitrogen-containing substances, terpenes, aliphatic ketones, and phenolics, while Grassatores use alkylated phenolics and benzoquinones, and Palpatores use substances like naphthoquinones, methyl- and ethyl-ketones, and naphthoquinones. These secretions have successfully protected the harvestmen against wandering spiders (Ctenidae), wolf spiders (Lycosidae) and Formica exsectoides ants. However, these chemical irritants are not able to prevent four species of harvestmen being preyed upon by the black scorpion Bothriurus bonariensis (Bothriuridae). These secretions contain multiple volatile compounds that vary among individuals and clades.
+
+Endangered status
+All troglobitic species (of all animal taxa) are considered to be at least threatened in Brazil. Four species of Opiliones are on the Brazilian national list of endangered species, all of them cave-dwelling: Giupponia chagasi, Iandumoema uai, Pachylospeleus strinatii and Spaeleoleptes spaeleus.
+Several Opiliones in Argentina appear to be vulnerable, if not endangered. These include Pachyloidellus fulvigranulatus, which is found only on top of Cerro Uritorco, the highest peak in the Sierras Chicas chain (provincia de Cordoba) and Pachyloides borellii is in rainforest patches in northwest Argentina which are in an area being dramatically destroyed by humans. The cave-living Picunchenops spelaeus is apparently endangered through human action. So far, no harvestman has been included in any kind of a Red List in Argentina, so they receive no protection.
+Maiorerus randoi has only been found in one cave in the Canary Islands. It is included in the Catálogo Nacional de especies amenazadas (National catalog of threatened species) from the Spanish government.
+Texella reddelli and Texella reyesi are listed as endangered species in the United States. Both are from caves in central Texas. Texella cokendolpheri from a cave in central Texas and Calicina minor, Microcina edgewoodensis, Microcina homi, Microcina jungi, Microcina leei, Microcina lumi, and Microcina tiburona from around springs and other restricted habitats of central California are being considered for listing as endangered species, but as yet receive no protection.
+
+Misconception
+An urban legend claims that the harvestman is the most venomous animal in the world but possesses fangs too short or a mouth too round and small to bite a human, rendering it harmless (the same myth applies to Pholcus phalangioides and the crane fly, which are both also called a "daddy longlegs"). This is untrue on several counts. None of the known species of harvestmen have venom glands; their chelicerae are not hollowed fangs but grasping claws that are typically very small and not strong enough to break human skin.
+
+Research
+Harvestmen are a scientifically neglected group. Description of new taxa has always been dependent on the activity of a few dedicated taxonomists. Carl Friedrich Roewer described about a third (2,260) of today's known species from the 1910s to the 1950s, and published the landmark systematic work Die Weberknechte der Erde (Harvestmen of the World) in 1923, with descriptions of all species known to that time. Other important taxonomists in this field include:
+
+Pierre André Latreille (18th century)
+Carl Ludwig Koch, Maximilian Perty (1830s–1850s)
+L. Koch, Tord Tamerlan Teodor Thorell (1860s–1870s)
+Eugène Simon, William Sørensen (1880s–1890s)
+James C. Cokendolpher, Raymond Forster, Clarence and Marie Goodnight, Jürgen Gruber, Reginald Frederick Lawrence, Jochen Martens, Cândido Firmino de Mello-Leitão (20th century)
+Gonzalo Giribet, Adriano Brilhante Kury, Tone Novak (21st century)Since the 1990s, study of the biology and ecology of harvestmen has intensified, especially in South America.
+
+Phylogeny
+Harvestmen are ancient arachnids. Fossils from the Devonian Rhynie chert, 410 million years ago, already show characteristics like tracheae and sexual organs, indicating that the group has lived on land since that time. Despite being similar in appearance to, and often confused with, spiders, they are probably closely related to the scorpions, pseudoscorpions, and solifuges; these four orders form the clade Dromopoda. The Opiliones have remained almost unchanged morphologically over a long period. Indeed, one species discovered in China, Mesobunus martensi, fossilized by fine-grained volcanic ash around 165 million years ago, is hardly discernible from modern-day harvestmen and has been placed in the extant family Sclerosomatidae.
+
+Etymology
+The Swedish naturalist and arachnologist Carl Jakob Sundevall (1801–1875) honored the naturalist Martin Lister (1638–1712) by adopting Lister's term Opiliones for this order, known in Lister's days as "harvest spiders" or "shepherd spiders", from Latin opilio, "shepherd"; Lister characterized three species from England (although not formally describing them, being a pre-Linnaean work).
+In England, the Opiliones are called harvestmen, not because they appear at that season, but from a superstitious belief that if one is killed there will be a bad harvest that year.
+
+Systematics
+The interfamilial relationships within Opiliones are not yet fully resolved, although significant strides have been made in recent years to determine these relationships. The following list is a compilation of interfamilial relationships recovered from several recent phylogenetic studies, although the placement and even monophyly of several taxa are still in question.
+
+The family Stygophalangiidae (one species, Stygophalangium karamani) from underground waters in North Macedonia is sometimes misplaced in the Phalangioidea. It is not a harvestman.
+
+Fossil record
+Despite their long history, few harvestman fossils are known. This is mainly due to their delicate body structure and terrestrial habitat, making them unlikely to be found in sediments. As a consequence, most known fossils have been preserved within amber.
+The oldest known harvestman, from the 410-million-year-old Devonian Rhynie chert, displayed almost all the characteristics of modern species, placing the origin of harvestmen in the Silurian, or even earlier. A recent molecular study of Opiliones, however, dated the origin of the order at about 473 million years ago (Mya), during the Ordovician.No fossils of the Cyphophthalmi or Laniatores much older than 50 million years are known, despite the former presenting a basal clade, and the latter having probably diverged from the Dyspnoi more than 300 Mya.
+Naturally, most finds are from comparatively recent times. More than 20 fossil species are known from the Cenozoic, three from the Mesozoic, and at least seven from the Paleozoic.
+
+Paleozoic
+The 410-million-year-old Eophalangium sheari is known from two specimens, one a female, the other a male. The female bears an ovipositor and is about 10 mm (0.39 in) long, whilst the male had a discernable penis. Whether both specimens belong to the same species is not definitely known. They have long legs, tracheae, and no median eyes. Together with the 305-million-year-old Hastocularis argus, it forms the suborder Tetrophthalmi.Brigantibunum listoni from East Kirkton near Edinburgh in Scotland is almost 340 million years old. Its placement is rather uncertain, apart from it being a harvestman.
+From about 300 Mya, several finds are from the Coal Measures of North America and Europe. While the two described Nemastomoides species are currently grouped as Dyspnoi, they look more like Eupnoi.
+Kustarachne tenuipes was shown in 2004 to be a harvestman, after residing for almost one hundred years in its own arachnid order, the "Kustarachnida".
+Some fossils from the Permian are possibly harvestmen, but these are not well preserved.
+
+Described species
+Eophalangium sheari Dunlop, 2004 (Tetrophthalmi) — Early Devonian (Rhynie, Scotland)
+Brigantibunum listoni Dunlop, 2005 (Eupnoi?) — Early Carboniferous (East Kirkton, Scotland)
+Echinopustulus samuelnelsoni Dunlop, 2004 (Dyspnoi?) — Upper Carboniferous (Western Missouri, U.S.)
+Eotrogulus fayoli Thevenin, 1901 (Dyspnoi: † Eotrogulidae) — Upper Carboniferous (Commentry, France)
+Hastocularis argus Garwood, 2014 (Tetrophthalmi) — Upper Carboniferous (Montceau-les-Mines, France)
+Kustarachne tenuipes Scudder, 1890 (Eupnoi?) — Upper Carboniferous (Mazon Creek, U.S.)
+Nemastomoides elaveris Thevenin, 1901 (Dyspnoi: † Nemastomoididae) — Upper Carboniferous (Commentary, France)
+Nemastomoides longipes Petrunkevitch, 1913 (Dyspnoi: † Nemastomoididae) — Upper Carboniferous (Mazon Creek, U.S.)
+
+Mesozoic
+Currently, no fossil harvestmen are known from the Triassic. So far, they are also absent from the Lower Cretaceous Crato Formation of Brazil, a Lagerstätte that has yielded many other terrestrial arachnids. An unnamed long-legged harvestman was reported from the Early Cretaceous of Koonwarra, Victoria, Australia, which may be a Eupnoi.A fossil of Halitherses grimaldii, a long-legged Dyspnoi with large eyes, was found in Burmese amber dating from approximately 100 Mya. It has been suggested that this may be related to the Ortholasmatinae (Nemastomatidae).
+
+Cenozoic
+Unless otherwise noted, all species are from the Eocene.
+
+Trogulus longipes Haupt, 1956 (Dyspnoi: Trogulidae) — Geiseltal, Germany
+Philacarus hispaniolensis  (Laniatores: Samoidae?) — Dominican amber
+Kimula species (Laniatores: Kimulidae) — Dominican amber
+Hummelinckiolus silhavyi Cokendolpher & Poinar, 1998 (Laniatores: Samoidae) — Dominican amber
+Caddo dentipalpis  (Eupnoi: Caddidae) — Baltic amber
+Dicranopalpus ramiger (Koch & Berendt, 1854) (Eupnoi: Phalangiidae) — Baltic amber
+Opilio ovalis  (Eupnoi: Phalangiidae?) — Baltic amber
+Cheiromachus coriaceus Menge, 1854 (Eupnoi: Phalangiidae?) — Baltic amber
+Leiobunum longipes  (Eupnoi: Sclerosomatidae) — Baltic amber
+Histricostoma tuberculatum  (Dyspnoi: Nemastomatidae) — Baltic amber
+Mitostoma denticulatum  (Dyspnoi: Nemastomatidae) — Baltic amber
+Nemastoma incertum  (Dyspnoi: Nemastomatidae) — Baltic amber
+Sabacon claviger  (Dyspnoi: Sabaconidae) — Baltic amber
+Petrunkevitchiana oculata (Petrunkevitch, 1922) (Eupnoi: Phalangioidea) — Florissant Fossil Beds National Monument, USA (Oligocene)
+Proholoscotolemon nemastomoides  (Laniatores: Cladonychiidae) — Baltic amber
+Siro platypedibus  (Cyphophthalmi: Sironidae) — Bitterfeld amber
+Amauropilio atavus (Cockerell, 1907) (Eupnoi: Sclerosomatidae) — Florissant, USA (Oligocene)
+Amauropilio lacoei (A. lawei?) (Petrunkevitch, 1922) — Florissant, USA (Oligocene)
+Pellobunus proavus Cokendolpher, 1987 (Laniatores: Samoidae) — Dominican amber
+Phalangium species (Eupnoi: Phalangiidae) — near Rome, Italy (Quaternary)
+
+References
+External links
+
+Joel Hallan's Biology Catalog (2005)
+Harvestman: Order Opiliones—Diagnostic photographs and information on North American harvestmen
+Harvestman: Order Opiliones—Diagnostic photographs and information on European harvestmen
+University of Aberdeen: The Rhynie Chert Harvestmen (fossils)
+National Museum page Classification of Opiliones—A synoptic taxonomic arrangement of the order Opiliones, down to family-group level, including some photos of the families
+Pocock, Reginald Innes (1911). "Harvester" . Encyclopædia Britannica (11th ed.).
