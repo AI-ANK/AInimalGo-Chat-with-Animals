@@ -9,7 +9,6 @@ from llama_index.memory import ChatMemoryBuffer
 import os
 import datetime
 
-
 #imports for resnet
 from transformers import AutoFeatureExtractor, ResNetForImageClassification
 import torch
@@ -47,7 +46,7 @@ cookie_manager = stx.CookieManager()
 
 #Function to init resnet
 
-@st.cache_resource()
+@st.cache_resource(show_spinner="Initializing ResNet model for image classification. Please wait...")
 def load_model_and_labels():
     # Load animal labels as a dictionary
     animal_labels_dict = {}
@@ -82,7 +81,7 @@ def get_image_caption(image_data):
     return predicted_label_name, predicted_label_id
 
 
-@st.cache_resource
+@st.cache_resource(show_spinner="Initializing LLM and setting up service context. Please wait...")
 def init_llm(api_key):
     llm = PaLM(api_key=api_key)
     service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
@@ -103,23 +102,39 @@ def is_animal(predicted_label_id):
 # Function to create the chat engine.
 @st.cache_resource
 def create_chat_engine(img_desc, api_key):
+    
+    #llm = PaLM(api_key=api_key)
+    #service_context = ServiceContext.from_defaults(llm=llm,embed_model="local")
     doc = Document(text=img_desc)
-
+    
+    # Now is_animal is a boolean indicating whether the image is of an animal
+    print("Is the image of an animal:", is_animal)
+    
     chat_engine = index.as_chat_engine(
         chat_mode="react",
+        system_prompt=(
+            #f"You are a chatbot, able to have normal interactions, as well as talk. "
+            #"You always answer in great detail and are polite. Your responses always descriptive. "
+            #"Your job is to talk about an image the user has uploaded. Image description: {img_desc}."
+            f"""You are a chatbot, able to have normal interactions, as well as talk.
+            You always answer in great detail and are polite. Your responses always descriptive.
+            Your job is to rolelpay as the animal that is mentioned in the image the user has uploaded. Image description: {img_desc}."""
+            
+        ),
         verbose=True,
         memory=chatmemory
     )
     
     return chat_engine    
     
+    
 
 # Clear chat function
 def clear_chat():
     if "messages" in st.session_state:
         del st.session_state.messages
-    if "image_file" in st.session_state:
-        del st.session_state.image_file
+    if "image_data" in st.session_state:
+        del st.session_state.image_data
 
 # Callback function to clear the chat when a new image is uploaded
 def on_image_upload():
@@ -148,9 +163,9 @@ else:
     # Image upload section.
     image_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"], key="uploaded_image", on_change=on_image_upload)
     
-    #col1, col2, col3 = st.columns([1, 2, 1])
-    #with col2:  # Camera input will be in the middle column
-    camera_image = st.camera_input("Take a picture")
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:  # Camera input will be in the middle column
+        camera_image = st.camera_input("Take a picture")
         
     
     # Determine the source of the image (upload or camera)
@@ -163,12 +178,15 @@ else:
     
     if image_data:
         # Display the uploaded image at a standard width.
+        st.session_state['assistant_avatar'] = image_data
         st.image(image_data, caption='Uploaded Image.', width=200)
 
         # Process the uploaded image to get a caption.
+        #img_desc = get_image_caption(image_data)
         img_desc, label_id = get_image_caption(image_data)
         
         if not (is_animal(label_id)):
+            #st.error("Please upload image of an animal!")
             st.error("Please upload image of an animal!")
             st.stop()
 
@@ -183,7 +201,8 @@ else:
 
     # Display previous messages
     for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
+        avatar = st.session_state['assistant_avatar'] if message["role"] == "assistant" else None
+        with st.chat_message(message["role"], avatar = avatar):
             st.markdown(message["content"])
 
     # Handle new user input
@@ -197,7 +216,7 @@ else:
             st.markdown(user_input)
 
         # Call the chat engine to get the response if an image has been uploaded
-        if image_file and user_input:
+        if image_data and user_input:
             try:
                 with st.spinner('Waiting for the chat engine to respond...'):
                     # Get the response from your chat engine
@@ -215,6 +234,8 @@ else:
         
             except Exception as e:
                 st.error(f'An error occurred.')
+                # Optionally, you can choose to break the flow here if a critical error happens
+                # return
         
             # Increment the message count and update the cookie
             message_count += 1
