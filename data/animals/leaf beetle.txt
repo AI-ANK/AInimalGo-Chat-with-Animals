@@ -1,0 +1,51 @@
+The insects of the beetle family Chrysomelidae are commonly known as leaf beetles, and include over 37,000 (and probably at least 50,000) species in more than 2,500 genera, making up one of the largest and most commonly encountered of all beetle families. Numerous subfamilies are recognized, but the precise taxonomy and systematics are likely to change with ongoing research.
+Leaf beetles are partially recognizable by their tarsal formula, which appears to be 4-4-4, but is actually 5-5-5 as the fourth tarsal segment is very small and hidden by the third. As with many taxa,  no single character defines the Chrysomelidae; instead, the family is delineated by a set of characters. Some lineages are only distinguished with difficulty from longhorn beetles (family Cerambycidae), namely by the antennae not arising from frontal tubercles.
+Adult and larval leaf beetles feed on all sorts of plant tissue. Many are serious pests of cultivated plants, for example the Colorado potato beetle (Leptinotarsa decemlineata), the asparagus beetle (Crioceris asparagi), the cereal leaf beetle (Oulema melanopus), the mustard beetle (Phaedon cochleariae) and various flea beetles, and a few act as vectors of plant diseases. Others are beneficial due to their use in biocontrol of invasive weeds. Some Chrysomelidae are conspicuously colored, typically in glossy yellow to red or metallic blue-green hues, and some (especially Cassidinae) have spectacularly bizarre shapes. Thus, they are highly popular among insect collectors.
+
+Description
+The imagos of leaf beetles are small to medium-sized, i.e. most species range from 1.0 to 18 mm in length, excluding appendages, with just a few larger species such as Alurnus humeralis, which reaches 35 mm. The bodies of most species are domed, and oval in dorsal view (though some are round or elongated), and they often possess a metallic luster or multiple colors. In most specimens, the antennae are notably shorter than head, thorax, and abdomen, i.e. not more than half their combined length. The second antennal segment is of normal size (which differentiates leaf beetles from the closely related longhorn beetles). In most species, the antennal segments are of a more or less equal shape, at most they gradually widen towards the tip, although some Galerucinae in particular have modified segments, mainly in males. The first segment of the antenna in most cases is larger than the following ones. The pronotum of leaf beetles varies between species. In most, it is slightly to highly domed and trapezoidal to rounded-squarish in dorsal view. In some subfamilies such as the Cassidinae and to a lesser extent the Cryptocephalinae, the head is covered by the pronotum and thus not visible from above. The first three sternites are not fused, instead being linked by mobile sutures. Most species  possess wings, although the level of development and thus flight ability varies widely, including within a single species, and some are flightless with fused elytra.
+
+Subfamilies
+The family includes these subfamilies:
+
+Bruchinae Latreille, 1802 – bean weevils or seed beetles
+Cassidinae Gyllenhaal, 1813 – tortoise beetles; includes the former "Hispinae"
+Chrysomelinae Latreille, 1802 – broad-bodied leaf beetles
+Criocerinae Latreille, 1804 – asparagus beetles, lily beetles, etc.
+Cryptocephalinae Gyllenhaal, 1813 – cylindrical leaf beetles and warty leaf beetles; includes former "Chlamisinae" and "Clytrinae"
+Donaciinae Kirby, 1837 – longhorned leaf beetles
+Eumolpinae Hope, 1840 – oval leaf beetles
+Galerucinae Latreille, 1802 – includes the former "Alticinae" (flea beetles)
+Lamprosomatinae Lacordaire, 1848
+Sagrinae Leach, 1815 – frog-legged beetles or kangaroo beetles
+Spilopyrinae Chapuis, 1874
+Synetinae LeConte & Horn, 1883 – sometimes considered a tribe of EumolpinaeUntil recently, the subfamily Bruchinae was considered a separate family, while two former subfamilies are presently considered families (Orsodacnidae and Megalopodidae). Other commonly recognized subfamilies have recently been grouped with other subfamilies, usually reducing them to tribal rank (e.g., the former Alticinae, Chlamisinae, Clytrinae, and Hispinae). The extinct subfamily Protoscelidinae, containing fossils described from the Middle to Late Jurassic Karabastau Formation, Kazakhstan, has been transferred to the family Anthribidae.
+
+Diet
+Chrysomelidae in general are herbivorous. Adults mostly feed on leaves and flowers of angiosperm plants, while larval diets are diverse.
+Bruchinae larvae are seed-borers, usually in seeds of legumes. Many adults feed on pollen, not necessarily that of the larval host. Some do not feed as adults.
+Cassidinae larvae may be leaf miners (many of the former Hispinae), stem borers (e.g. Estigmena) and external leaf feeders (e.g. Leptispa, Oediopalpa).
+Chrysomelinae generally feed on leaves as adults and larvae, though some species feed on flowers instead.
+Criocerinae larvae are usually leaf miners or feed externally on leaves. Some species are gallers instead.
+Eumolpinae larvae feed on roots.
+Most Cryptocephalinae larvae live and feed in leaf litter, making them detritivores, while a few feed on green leaves. A number of Cryptocephalinae have larvae that live in ant nests (myrmecophily), where they feed on dead plant or even dead animal matter.
+The semi-aquatic Donaciinae have larvae feeding on the sap of roots of aquatic plants. In addition to food, they also obtain oxygen this way, from the plant's intercellular spaces. Adults feed on leaves of aquatic plants.
+Galerucinae are quite varied, with larvae living in soil and feeding on rootlets (e.g. Aulacophora, Cerotoma, Diabrotica), mining leaves (some Monoxia) or feeding externally on plants (e.g. Arima, Galeruca, Galerucella).
+Lamprosomatinae larvae feed on green plant parts or graze on bark.
+Sagrinae larvae mostly form galls in stems of shrubs, though Mecynodera balyi instead feeds inside seed pods of Pandorea vines. Adults feed on pollen.
+Spilopyrinae larvae are external leaf feeders.
+Synetinae larvae feed on roots, mainly of trees in cold northern forests.
+
+Natural enemies
+A Finnish researcher published an exhaustive paper describing the natural enemies of the alder leaf beetle Plagiosterna aenea and other species of leaf beetles observed in the field. Predators of chrysomelid eggs include true bugs such as Anthocorus nemorum and Orthotylus marginalis. Hoverflies (e.g. Parasyrphus nigritarsis) sometimes lay eggs adjacent to beetle egg clutches and when the fly larva hatches it consumes beetle eggs and young larvae. Larval predators include A. nemorum, the bug Rhacognathus punctatus,  and the wasp Symmorphus bifasciatus. Some species of wasps, such as Polistes carolina, have been known to prey upon Chrysomelidae larvae after the eggs are laid in flowers. Adult beetles are consumed by R. punctatus. More information about natural enemies can be found in the articles about the chrysomelid beetles Chrysomela aeneicollis, Phratora laticollis and Phratora vitellinae.
+
+Gallery
+References
+Bibliography
+External links
+
+Chyrsomelidae of northwest Europe
+List of subfamilies of European Chrysomelidae from University of Wrocław
+Brisbane leaf beetles
+Keys to the British genera and species of Chrysomelidae
+Chrysomelidae @ MIZA Archived 2020-10-24 at the Wayback Machine

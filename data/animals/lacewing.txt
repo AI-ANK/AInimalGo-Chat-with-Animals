@@ -1,0 +1,79 @@
+The insect order Neuroptera, or net-winged insects, includes the lacewings, mantidflies, antlions, and their relatives. The order consists of some 6,000 species. Neuroptera is grouped together with the Megaloptera (alderflies, fishflies, and dobsonflies) and Raphidioptera (snakeflies) in the unranked taxon Neuropterida (once known as Planipennia).
+Adult neuropterans have four membranous wings, all about the same size, with many veins. They have chewing mouthparts, and undergo complete metamorphosis.
+Neuropterans first appeared during the Permian period, and continued to diversify through the Mesozoic era. During this time, several unusually large forms evolved, especially in the extinct family Kalligrammatidae, often called "the butterflies of the Jurassic" for their large, patterned wings.
+
+Anatomy and biology
+Neuropterans are soft-bodied insects with relatively few specialized features. They have large lateral compound eyes, and may or may not also have ocelli. Their mouthparts have strong mandibles suitable for chewing, and lack the various adaptations found in most other endopterygote insect groups.
+They have four wings, usually similar in size and shape, and a generalised pattern of veins. Some neuropterans have specialised sense organs in their wings, or have bristles or other structures to link their wings together during flight.The larvae are specialised predators, with elongated mandibles adapted for piercing and sucking. The larval body form varies between different families, depending on the nature of their prey. In general, however, they have three pairs of thoracic legs, each ending in two claws. The abdomen often has adhesive discs on the last two segments.
+
+Life cycle and ecology
+The larvae of most families are predators. Many chrysopids, hemerobiids and coniopterygids eat aphids and other pest insects, and some have been used for biological control (either from commercial distributors, but also abundant and widespread in nature).Larvae in various families cover themselves in debris (sometimes including dead prey insects) as camouflage, taken to an extreme in the ant lions, which bury themselves completely out of sight and ambush prey from "pits" in the soil. Larvae of some Ithonidae are root feeders, and larvae of Sisyridae are aquatic, and feed on freshwater sponges. A few mantispids are parasites of spider egg sacs.
+As in other holometabolic orders, the pupal stage is enclosed in some form of cocoon composed of silk and soil or other debris. The pupa eventually cuts its way out of the cocoon with its mandibles, and may even move about for a short while before undergoing the moult to the adult form.Adults of many groups are also predatory, but some do not feed, or consume only nectar.
+Beetles, wasps, and some lake flies parasitize neuropteran larvae.
+
+Evolution
+Neuropterans first appeared near the end of the Permian period, as shown by fossils of the Permithonidae from the Tunguska basin in Siberia and a similar fauna from Australia.
+The osmylids are of Jurassic or Early Cretaceous origin and may be the most ancient of the Neuropteran groups. The extinct osmylid Protosmylus is fossilized in middle Eocene Baltic amber. The genus Burmaleon is described from two fossils of Cenomanian age Burmese amber, implying crown group radiation in the Early Cretaceous or earlier. The family Kalligrammatidae lived from the Jurassic to Aptian (Lower Cretaceous) periods.Ithonidae are from the Jurassic to Recent, and the extinct lineages of the family were widespread geographically.
+
+Phylogeny
+Molecular analysis in 2018 using mitochondrial rRNA and mitogenomic data places the Megaloptera as sister to Neuroptera, and Raphidioptera as sister to this combined lineage, though these results were considered tentative. The fossil record has contributed to the understanding of the group's phylogeny. Relationships within the Myrmeleontiformia are still in flux.
+A phylogenomic analysis published in 2023 confirmed the topology of the neuropterid orders and found the relationships between the families of Neuropterida as shown in the following phylogenetic tree.
+
+Taxonomy
+Review of the Neropterid group orders by Engel, Winterton, and Breitkreuz (2018) included grouping of the Neuropteran families in a nested set of clades, an abandonment of the paraphyletic suborder "Hemerobiiformia" and redefinition of Myrmeleontiformia as a clade.Neuroptera
+
+Superfamily Coniopterygoidea
+family Coniopterygidae dustywings (Late Jurassic-Present)
+Clade Euneuroptera
+Superfamily Osmyloidea
+Family Osmylidae: osmylids (Early Jurassic-Present)
+Family Sisyridae: spongillaflies (Late Cretaceous-Present)
+Family Nevrorthidae  (Late Cretaceous-Present)
+Family †Archeosmylidae (Permian-Triassic)
+Family †Saucrosmylidae (Middle Jurassic)
+Superfamily Dilaroidea
+Family Dilaridae: pleasing lacewings (Late Cretaceous-Present)
+Superfamily Mantispoidea
+Family Berothidae: beaded lacewings (Late Jurassic-Present)
+Family Mantispidae: mantidflies (including †Dipteromantispidae) (Jurassic-Present)
+Family †Mesoberothidae (including †Mesithonidae) (Triassic)
+Family Rhachiberothidae: thorny lacewings (Early Cretaceous-Recent)
+Clade Neoneuroptera
+Superfamily Hemerobioidea (inc. Chrysopoidea)
+Family †Ascalochrysidae
+Family Chrysopidae: green lacewings (including †Mesochrysopidae)
+Family Hemerobiidae: brown lacewings
+Family †Osmylitidae
+Family †Solenoptilidae
+Clade Geoneuroptera
+Superfamily Ithonioidea
+Family Ithonidae: moth lacewings (includes Rapismatidae and Polystoechotidae)
+Clade Myrmeleontiformia
+Superfamily Myrmeleontoidea (syn Nemopteroidea)
+Family Ascalaphidae: owlflies
+Family †Babinskaiidae
+Family Myrmeleontidae: antlions (includes Palaeoleontidae)
+Family Nemopteridae: spoonwings etc
+Family Nymphidae: split-footed lacewings (includes Myiodactylidae)
+Family †Rafaelianidae
+Superfamily Psychopsoidea
+Family †Aetheogrammatidae
+Family †Kalligrammatidae
+Family †Osmylopsychopidae (syn †Brongniartiellidae)
+Family †Panfiloviidae (syn †Grammosmylidae)
+Family †Prohemerobiidae
+Family Psychopsidae: silky lacewingsThe fossil genus †Mesohemerobius Ping, 1928 from the Late Jurassic-Early Cretaceous of China has been treated as incertae sedis within Neuroptera, while the fossil families †Permoberothidae and †Permithonidae are treated as a sister group to clade Eidoneuroptera formed by Neuroptera + Megaloptera.
+
+In human culture
+The use of Neuroptera in biological control of insect pests has been investigated, showing that it is difficult to establish and maintain populations in fields of crops.Five species of Neuroptera are among 1681 insect species eaten by humans worldwide.The New Guinea Highland people claim to be able to maintain a muscular build and great stamina despite their low protein intake as a result of eating insects including Neuroptera.
+
+Notes
+References
+External links
+
+Oswald, John D. (2023). Neuropterida Species of the World. Lacewing Digital Library, Research Publication No. 1. (an online catalog that includes data on the Neuroptera species of the world)
+Oswald, John D. (2023). Bibliography of the Neuropterida. Lacewing Digital Library, Research Publication No. 2. (an online bibliography that includes data on the global scientific literature of the order Neuroptera)
+Lacewing Digital Library (a web portal that provides access to a suite of online resources that contain data on the order Neuroptera)
+Illustrated database of Neuroptera (insects)
+Brown lacewings of Florida on the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures
+Information on Neuroptera (subscription required) at Web of Science

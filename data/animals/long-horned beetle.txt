@@ -1,0 +1,71 @@
+The longhorn beetles (Cerambycidae), also known as long-horned or longicorns (whose larvae are often referred to as roundheaded borers), are a large family of beetles, with over 35,000 species described. Most species are characterized by extremely long antennae, which are often as long as or longer than the beetle's body. In various members of the family, however, the antennae are quite short (e.g., Neandra brunnea) and such species can be difficult to distinguish from related beetle families such as the Chrysomelidae. The scientific name of this beetle family goes back to a figure from Greek mythology: after an argument with nymphs, the shepherd Cerambus was transformed into a large beetle with horns.
+Though most species are found in only one biogeographic realm, longhorn beetles are found on all continents except Antarctica.
+
+Description
+Other than the typical long antennal length, the most consistently distinctive feature of adults of this family is that the antennal sockets are located on low tubercles on the face; other beetles with long antennae lack these tubercles, and cerambycids with short antennae still possess them. They otherwise vary greatly in size, shape, sculpture, and coloration. A number of species mimic ants, bees, and wasps, though a majority of species are cryptically colored. The titan beetle (Titanus giganteus) from northeastern South America is often considered the largest insect (though not the heaviest, and not the longest including legs), with a maximum known body length of just over 16.7 cm (6.6 in).Larvae are 0.5–22 cm (0.20–8.66 in) long, elongate in shape and lightly sclerotised. The prothorax is often enlarged and the sides of the body have lateral swellings (ampullae). The head is usually retracted into the prothorax and bears well-sclerotised mouthparts. The legs range from moderately developed to absent. The spiracles are always annular.
+
+Biology
+Diet
+All known longhorn beetle larvae feed on plant tissue such as stems, trunks, or roots of both herbaceous and woody plants, often in injured or weak trees. A few species are serious pests. The larvae, called roundheaded borers, bore into wood, where they can cause extensive damage to either living trees or untreated lumber (or, occasionally, to wood in buildings; the old-house borer, Hylotrupes bajulus, is a particular problem indoors).
+It is known that many longhorns locate and recognize potential hosts by detecting chemical attractants, including monoterpenes (compounds released en masse by woody plants when stressed), ethanol (another compound emitted by damaged plant material), and even bark beetle pheromones. Many scolytinids share the cerambycid's niche of weakened or recently deceased trees; thus, by locating scolytinids, a suitable host can likely be located as well. The arrival of cerambycid larvae is often detrimental to a population of scolytinids, as the cerambycid larvae will typically either outcompete them with their greater size and mobility, or act as direct predators of them (this latter practice is less common, but has been observed in several species, notably Monochamus carolinensis). Cerambycids, in turn, have been found to play a role in attracting other wood-borers to a host. Borgemeister, et al. 1998, recorded that cerambycid activity in girdled twigs released volatiles attractive to some bostrichids, especially Prostephanus truncatus. A few cerambycids, such as Arhopalus sp., are adapted to take advantage of trees recently killed or injured by forest fires by detecting and pursuing smoke volatiles.
+
+Pollination
+In addition to feeding on other plant tissue, some species feed on pollen or nectar and may act as pollinators. Assessing the efficacy of beetle pollinators is difficult. Even if pollination of one species by beetles is shown, that same beetle may also act as a flower predator toward other species. In some cases, beetles may act as both pollinators and predators on the same flowers.Flowers specializing in pollination by beetles typically display a particular set of traits, but pollination by longhorn beetles is not limited to these cantharophilous flowers. A review of angiosperm pollination by beetles shows that Cerambycidae, along with Curculionidae and Scarabaeidae, contains many taxa that are pollinators for not only specialist but also generalist systems.Beetles in the New Zealand genus Zorion are known to feed on pollen and have a specialized structure similar to that of pollen baskets found in bees. Species in this genus are thought to be important pollinator species for native plants such as harakeke.Some orchid species have been found to be largely reliant on longhorn beetles for pollination. The species Alosterna tabacicolor was found to be the main pollinator of a rare orchid species (Dactylorhiza fuchsii) in Poland. Another rare orchid Disa forficaria, found in the Cape Floristic Region in South Africa, relies on the species Chorothyse hessei for pollination. D. forficaria uses sexual deception targeting male C. hessei, possibly indicating a long history of co-evolution with longhorn beetle pollinators.
+The proportion of longhorn beetle species that act as pollinators is unknown. The fact that two species of longhorn species from distinct subfamilies (Lepturinae and Cerambycinae) found on different continents both with significant roles as pollinators could suggest that some capacity for pollination may be common among longhorn beetles.
+
+Predators
+Parasitoids
+In North America some native cerambycids are the hosts of Ontsira mellipes (a parasitoid wasp in the family Braconidae). O. mellipes may be useful in controlling a forestry pest in this same family, Anoplophora glabripennis, that is invasive in North America.
+
+Classification
+As with many large families, different authorities have tended to recognize many different subfamilies, or sometimes split subfamilies off as separate families entirely (e.g., Disteniidae, Oxypeltidae, and Vesperidae); there is thus some instability and controversy regarding the constituency of the Cerambycidae. There are few truly defining features for the group as a whole, at least as adults, as there are occasional species or species groups which may lack any given feature; the family and its closest relatives, therefore, constitute a taxonomically difficult group, and relationships of the various lineages are still poorly understood. The oldest unambiguous fossils of the family are Cretoprionus and Sinopraecipuus from Yixian Formation of Inner Mongolia and Liaoning, China, dating to the Aptian stage of the Early Cretaceous, approximately 122 million years ago. The former genus was assigned to the subfamily Prioninae in its original description, while the latter could not be placed in any extant subfamily. Qitianniu from the mid-Cretaceous Burmese amber of Myanmar, dating to approximately 100 million years ago, also could not be placed in any extant subfamily.
+
+Subfamilies
+The eight subfamilies are:
+Cerambycinae Latreille, 1802
+Dorcasominae Lacordaire, 1869 (including former Apatophyseinae Lacordaire, 1869)
+Lamiinae Latreille, 1825
+Lepturinae Latreille, 1802
+Necydalinae Latreille, 1825
+Parandrinae Blanchard, 1845
+Prioninae Latreille, 1802
+Spondylidinae Audinet-Serville, 1832 (including former Aseminae Thomson, 1860)Most species (90.5%) are concentrated in the Cerambycinae and Lamiinae subfamilies.
+
+Notable genera and species
+Acrocinus longimanus – harlequin beetle, a large species where the male has very long front legs
+Anoplophora chinensis – citrus long-horned beetle, a major pest
+Anoplophora glabripennis – Asian long-horned beetle, an invasive pest species
+Aridaeus thoracicus – tiger longicorn (Australia)
+Cacosceles newmannii - Southern African longhorn beetle that is a surgacane pest
+Desmocerus californicus dimorphus – valley elderberry longhorn beetle, a threatened subspecies from California
+Moneilema – cactus longhorn beetles, which are flightless
+Onychocerus albitarsis – the only known beetle with a venomous sting
+Petrognatha gigas – giant African longhorn beetle
+Prionoplus reticularis – huhu beetle, the heaviest beetle in New Zealand
+Rosalia alpina – Rosalia longhorn beetle, a threatened European species
+Tetraopes tetrophthalmus – red milkweed beetle, a toxic species with aposematic colors
+Tetropium fuscum – brown spruce longhorn beetle, an invasive pest species
+Titanus giganteus – titan beetle, one of the largest beetles in the world
+Zorion guttigerum - flower long-horn beetle, an important pollinator species.
+
+See also
+List of longhorn beetle (Cerambycidae) species recorded in Britain
+
+References
+Further reading
+Monné, Miguel A. & Hovore, Frank T. (2005) Electronic Checklist of the Cerambycidae of the Western Hemisphere. PDF Cerambycids.com
+
+External links
+
+Photo gallery "Longhorn beetles (Cerambycidae) of the West Palaearctic Region"
+[1] and [2] Catalogs of New World and Old World Cerambycidae, respectively
+Cerambycidae of French Guiana
+National Museu, Rio, Brazil Holotype images
+Iberodorcadion Coleoptera, Cerambycidae, Dorcadion - RedIRIS
+VIDEOS - Longicornes (Dorcadion, Cerambycidae, Coleoptera) 
+Cerambycidae of Borneo pdf
+BugGuide.net - Longhorned Beetles (Cerambycidae)
+Anoplophora chinensis, citrus longhorned beetle on the University of Florida / Institute of Food and Agricultural Sciences Featured Creatures website
+Coleoptera: Cerambycidae, University of Florida, Dept. of Entomology and Nematology
+Wood-boring beetles of the World
+[3]
