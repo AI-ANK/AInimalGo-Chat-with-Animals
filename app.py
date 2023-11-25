@@ -163,9 +163,9 @@ else:
     # Image upload section.
     image_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"], key="uploaded_image", on_change=on_image_upload)
     
-    col1, col2, col3 = st.columns([1, 2, 1])
-    with col2:  # Camera input will be in the middle column
-        camera_image = st.camera_input("Take a picture")
+    #col1, col2, col3 = st.columns([1, 2, 1])
+    #with col2:  # Camera input will be in the middle column
+    camera_image = st.camera_input("Take a picture")
         
     
     # Determine the source of the image (upload or camera)
