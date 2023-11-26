@@ -28,7 +28,7 @@ Welcome to "AInimal Go!", an innovative application inspired by the charm of Pok
 
 ## Demo
 
-Try out the live demo here: [PaLM-Kosmos-Vision Demo](https://huggingface.co/spaces/AI-ANK/PaLM-Kosmos-Vision)
+Try out the live demo here: [AInimal GO!](https://huggingface.co/spaces/AI-ANK/AInimal_Go)
 
 
 ## License
