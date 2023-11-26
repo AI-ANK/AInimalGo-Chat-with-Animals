@@ -8,6 +8,8 @@ from llama_index import ServiceContext, VectorStoreIndex, Document, StorageConte
 from llama_index.memory import ChatMemoryBuffer
 import os
 import datetime
+from llama_index.llms import Cohere
+from llama_index.query_engine import CitationQueryEngine
 
 #imports for resnet
 from transformers import AutoFeatureExtractor, ResNetForImageClassification
@@ -45,7 +47,6 @@ This application, titled 'AInimal Go!', is a conceptual prototype designed to de
 cookie_manager = stx.CookieManager()
 
 #Function to init resnet
-
 @st.cache_resource(show_spinner="Initializing ResNet model for image classification. Please wait...")
 def load_model_and_labels():
     # Load animal labels as a dictionary
@@ -83,7 +84,9 @@ def get_image_caption(image_data):
 
 @st.cache_resource(show_spinner="Initializing LLM and setting up service context. Please wait...")
 def init_llm(api_key):
-    llm = PaLM(api_key=api_key)
+#    llm = PaLM(api_key=api_key)
+    llm = Cohere(model="command", api_key=st.secrets['COHERE_API_TOKEN'])
+
     service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
 
     storage_context = StorageContext.from_defaults(persist_dir="storage")
@@ -92,12 +95,11 @@ def init_llm(api_key):
     
     return llm, service_context, storage_context, index, chatmemory
 
-llm, service_context, storage_context, index, chatmemory = init_llm(st.secrets['GOOGLE_API_KEY'])
+llm, service_context, storage_context, index, chatmemory = init_llm(os.environ["GOOGLE_API_KEY"])
 
 def is_animal(predicted_label_id):
     # Check if the predicted label ID is within the animal classes range
     return 0 <= predicted_label_id <= 398
-
 
 # Function to create the chat engine.
 @st.cache_resource
@@ -110,25 +112,17 @@ def create_chat_engine(img_desc, api_key):
     # Now is_animal is a boolean indicating whether the image is of an animal
     print("Is the image of an animal:", is_animal)
     
-    chat_engine = index.as_chat_engine(
-        chat_mode="react",
-        system_prompt=(
-            #f"You are a chatbot, able to have normal interactions, as well as talk. "
-            #"You always answer in great detail and are polite. Your responses always descriptive. "
-            #"Your job is to talk about an image the user has uploaded. Image description: {img_desc}."
-            f"""You are a chatbot, able to have normal interactions, as well as talk.
-            You always answer in great detail and are polite. Your responses always descriptive.
-            Your job is to rolelpay as the animal that is mentioned in the image the user has uploaded. Image description: {img_desc}."""
-            
-        ),
-        verbose=True,
-        memory=chatmemory
+    query_engine = CitationQueryEngine.from_args(
+        index,
+        similarity_top_k=3,
+        # here we can control how granular citation sources are, the default is 512
+        citation_chunk_size=512,
+        verbose=True
     )
     
-    return chat_engine    
+    return query_engine    
     
     
-
 # Clear chat function
 def clear_chat():
     if "messages" in st.session_state:
@@ -163,9 +157,9 @@ else:
     # Image upload section.
     image_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"], key="uploaded_image", on_change=on_image_upload)
     
-    #col1, col2, col3 = st.columns([1, 2, 1])
-    #with col2:  # Camera input will be in the middle column
-    camera_image = st.camera_input("Take a picture")
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:  # Camera input will be in the middle column
+        camera_image = st.camera_input("Take a picture", on_change=on_image_upload)
         
     
     # Determine the source of the image (upload or camera)
@@ -191,7 +185,7 @@ else:
             st.stop()
 
         # Initialize the chat engine with the image description.
-        chat_engine = create_chat_engine(img_desc, st.secrets['GOOGLE_API_KEY'])
+        chat_engine = create_chat_engine(img_desc, os.environ["GOOGLE_API_KEY"])
         st.write("Image Uploaded Successfully. Ask me anything about it.")
 
 
@@ -220,17 +214,26 @@ else:
             try:
                 with st.spinner('Waiting for the chat engine to respond...'):
                     # Get the response from your chat engine
-                    response = chat_engine.chat(f"""You are a chatbot that roleplays as an animal and also makes animal sounds when chatting.
-                    You always answer in great detail and are polite. Your responses always descriptive.
-                    Your job is to rolelpay as the animal that is mentioned in the image the user has uploaded. Image description: {img_desc}. User question
-                    {user_input}""")
-                
+                    system_prompt=f"""
+                    You are a chatbot, able to have normal interactions. Do not make up information.
+                    You always answer in great detail and are polite. Your job is to roleplay as an {img_desc}. 
+                    Remember to make {img_desc} sounds while talking but dont overdo it.
+                    """
+                    
+                    response = chat_engine.query(f"{system_prompt}. {user_input}")
+
+                    #response = chat_engine.chat(f"""You are a chatbot that roleplays as an animal and also makes animal sounds when chatting.
+                    #You always answer in great detail and are polite. Your responses always descriptive.
+                    #Your job is to rolelpay as the animal that is mentioned in the image the user has uploaded. Image description: {img_desc}. User question
+                    #{user_input}""")
+
                 # Append assistant message to the session state
                 st.session_state.messages.append({"role": "assistant", "content": response.response})
         
                 # Display the assistant message
                 with st.chat_message("assistant"):
                     st.write(response.response)
+                    st.expander("hello")
         
             except Exception as e:
                 st.error(f'An error occurred.')
