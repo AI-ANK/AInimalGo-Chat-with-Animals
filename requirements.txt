@@ -8,3 +8,6 @@ torch
 llama_index
 google-generativeai
 nest_asyncio
+torchvision
+fastembed
+cohere
