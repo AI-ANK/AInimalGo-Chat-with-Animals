@@ -20,7 +20,7 @@ Welcome to "AInimal Go!", an innovative application inspired by the charm of Pok
 ### Technical Highlights
 - **LlamaIndex**: Orchestrates the integration of LLMs and deep learning models, streamlining the conversational AI process.
 - **ResNet Model**: Chosen for its speed and accuracy in image classification, it's pivotal for the initial animal identification step.
-- **PaLM**: This Large Language Model is at the core of the conversational AI, enabling the app to simulate realistic and knowledgeable interactions.
+- **Cohere LLM API:** Powers the core of the conversational AI, enabling the app to simulate realistic and knowledgeable interactions with animals.
 - **Wikipedia**: The app retrieves factual information from Wikipedia, enriching the conversations with educational content about the animals.
 - **Streamlit**: Provides the framework for the app's user interface, offering an accessible and pleasant user experience.
 - **Hugging Face Spaces**: The hosting platform that supports the app's deployment, ensuring it's readily accessible to users worldwide.
